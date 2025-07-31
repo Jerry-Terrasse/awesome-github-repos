@@ -780,7 +780,7 @@
 
 *   [Bug-Duck/gitpro](https://github.com/Bug-Duck/gitpro) - The unofficial mobile app of GitHub with full functions.
 
-*   [ezyshu/linuxdo-scripts](https://github.com/ezyshu/linuxdo-scripts) - LinuxDo Scripts 扩展，功能持续更新，欢迎提出新想法！已上架 Chrome Web Store 和 Firefox 商店!
+*   [ezyshu/linuxdo-scripts](https://github.com/ezyshu/linuxdo-scripts) - LinuxDo Scripts 扩展，功能持续更新，欢迎提出新想法！已上架 Chrome Web Store 和 Firefox 商店！文档地址：https://linuxdo-scripts.zishu.me
 
 *   [itchaox/annotree](https://github.com/itchaox/annotree) - Generate folder directory annotation tree | 生成文件夹目录注释树
 
