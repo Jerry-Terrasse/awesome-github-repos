@@ -776,7 +776,7 @@
 
 ## Shell
 
-*   [q3aql/aria2-static-builds](https://github.com/q3aql/aria2-static-builds) - MOVED: https://git.q3aql.dev/q3aql/aria2-static-builds
+*   [q3aql/aria2-static-builds](https://github.com/q3aql/aria2-static-builds) - aria2 static builds for GNU/Linux & Windows (with OpenSSL).
 
 *   [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 
