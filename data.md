@@ -924,7 +924,7 @@
 
 *   [josephcolton/tcpping](https://github.com/josephcolton/tcpping) - Utility for performing a TCP based ping
 
-*   [radxa-pkg/aic8800](https://github.com/radxa-pkg/aic8800) - Aicsemi aic8800 Wi-Fi driver
+*   [radxa-pkg/aic8800](https://github.com/radxa-pkg/aic8800) - Aicsemi aic8800 Wi-Fi driver. Official support for Radxa devices only.
 
 *   [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color) - The world's most popular non-default computer lockscreen.
 
