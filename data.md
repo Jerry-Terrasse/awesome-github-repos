@@ -1462,7 +1462,7 @@
 
 ## Assembly
 
-*   [MrAMS/Nagi](https://github.com/MrAMS/Nagi) - 基于difftest改进的CPU敏捷开发框架（龙芯杯2024）
+*   [MrAMS/Nagi](https://github.com/MrAMS/Nagi) - CPU敏捷开发框架（龙芯杯2024）
 
 ## SCSS
 
