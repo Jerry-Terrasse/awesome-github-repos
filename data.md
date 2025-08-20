@@ -2,6 +2,7 @@
 
 ## Table of Contents
 
+*   [Rust](#rust)
 *   [Python](#python)
 *   [C++](#c)
 *   [JavaScript](#javascript)
@@ -15,7 +16,6 @@
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [CSS](#css)
 *   [miscellaneous](#miscellaneous)
-*   [Rust](#rust)
 *   [XML](#xml)
 *   [Ruby](#ruby)
 *   [Lua](#lua)
@@ -50,6 +50,74 @@
 *   [VBScript](#vbscript)
 *   [Dockerfile](#dockerfile)
 
+## Rust
+
+*   [Haleclipse/CCometixLine](https://github.com/Haleclipse/CCometixLine) - High-performance Claude Code statusline tool written in Rust
+
+*   [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
+
+*   [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
+
+*   [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
+
+*   [Jerry-Terrasse/ollama\_load\_balancer](https://github.com/Jerry-Terrasse/ollama_load_balancer) - Autonomous Rust utility that load balances multiple https://ollama.com/ servers
+
+*   [risc0/risc0-ethereum](https://github.com/risc0/risc0-ethereum) - Integration of the RISC Zero verifiable compute platform with Ethereum and EVM chains.
+
+*   [benfred/py-spy](https://github.com/benfred/py-spy) - Sampling profiler for Python programs
+
+*   [BigBIueWhale/ollama\_load\_balancer](https://github.com/BigBIueWhale/ollama_load_balancer) - Autonomous Rust utility that load balances multiple https://ollama.com/ servers
+
+*   [dndx/phantun](https://github.com/dndx/phantun) - Transforms UDP stream into (fake) TCP streams that can go through Layer 3 & Layer 4 (NAPT) firewalls/NATs.
+
+*   [zu1k/srun](https://github.com/zu1k/srun) - srun 深澜认证登录，超轻量、多平台，支持多拨、自动探测IP、指定网卡
+
+*   [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
+
+*   [cloudflare/boringtun](https://github.com/cloudflare/boringtun) - Userspace WireGuard® Implementation in Rust
+
+*   [jtroo/kanata](https://github.com/jtroo/kanata) - Improve keyboard comfort and usability with advanced customization
+
+*   [atopx/typora-crack](https://github.com/atopx/typora-crack) -
+
+*   [jooaf/thoth](https://github.com/jooaf/thoth) - Terminal scratchpad inspired by the Heynote app
+
+*   [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
+
+*   [ismet55555/bieye](https://github.com/ismet55555/bieye) - A blazingly fast rust-based bionic reader for blazingly fast reading within a terminal console 🦀
+
+*   [microsoft/sudo](https://github.com/microsoft/sudo) - It's sudo, for Windows
+
+*   [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
+
+*   [MolotovCherry/virtual-display-rs](https://github.com/MolotovCherry/virtual-display-rs) - A Windows virtual display driver to add multiple virtual monitors to your PC! For Win10+. Works with VR, obs, streaming software, etc
+
+*   [JohanChane/clashtui](https://github.com/JohanChane/clashtui) - Mihomo (Clash.Meta) TUI Client
+
+*   [YiNNx/cmd-wrapped](https://github.com/YiNNx/cmd-wrapped) - 👩‍💻 A CLI Tool for Command Line Insights
+
+*   [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
+
+*   [greenhandzpx/Titanix](https://github.com/greenhandzpx/Titanix) - Titanix: A Unix-like OS.
+
+*   [takahirox/riscv-rust](https://github.com/takahirox/riscv-rust) - RISC-V processor emulator written in Rust+WASM
+
+*   [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
+
+*   [second-state/WasmEdge-WASINN-examples](https://github.com/second-state/WasmEdge-WASINN-examples) -
+
+*   [sigoden/upt](https://github.com/sigoden/upt) - Universal Package-management Tool for any OS.
+
+*   [lz1998/ricq](https://github.com/lz1998/ricq) - Rust 高性能 QQ 协议（原RS-QQ）。Linux-musl运行内存1.6MB。
+
+*   [chmln/sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative)
+
+*   [iTXTech/mcl-installer](https://github.com/iTXTech/mcl-installer) - MCL一键安装工具
+
+*   [Borber/seam](https://github.com/Borber/seam) - 获取多直播平台的直播源
+
+*   [PyO3/pyo3](https://github.com/PyO3/pyo3) - Rust bindings for the Python interpreter
+
 ## Python
 
 *   [dpyyds/DPbot](https://github.com/dpyyds/DPbot) - DPbot是一个基于Python的机器人框架，支持插件化开发，提供了丰富的功能接口，可基于此框架拓展为群活跃助手、台账机器人、定时推送机器人、ai画图机器人、智能客服、返利机器人。
@@ -62,7 +130,7 @@
 
 *   [Aruelius/wenshushu](https://github.com/Aruelius/wenshushu) - 基于 https://www.wenshushu.cn （文叔叔） 上传与下载文件的 Python 脚本
 
-*   [modelscope/ms-swift](https://github.com/modelscope/ms-swift) - Use PEFT or Full-parameter to CPT/SFT/DPO/GRPO 500+ LLMs (Qwen3, Qwen3-MoE, Llama4, GLM4.5, InternLM3, DeepSeek-R1, ...) and 200+ MLLMs (Qwen2.5-VL, Qwen2.5-Omni, Qwen2-Audio, Ovis2, InternVL3, Llava, GLM4v, Phi4, ...) (AAAI 2025).
+*   [modelscope/ms-swift](https://github.com/modelscope/ms-swift) - Use PEFT or Full-parameter to CPT/SFT/DPO/GRPO 500+ LLMs (Qwen3, Qwen3-MoE, Llama4, GLM4.5, InternLM3, DeepSeek-R1, ...) and 200+ MLLMs (Qwen2.5-VL, Qwen2.5-Omni, Qwen2-Audio, InternVL3, Ovis2.5, Llava, GLM4v, Phi4, ...) (AAAI 2025).
 
 *   [gaogaotiantian/dowhen](https://github.com/gaogaotiantian/dowhen) - An intuitive and low-overhead instrumentation tool for Python
 
@@ -712,8 +780,6 @@
 
 *   [thlorenz/brace](https://github.com/thlorenz/brace) - 📔 browserify compatible version of the ace editor.
 
-*   [ryanhanwu/How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way) - 本文原文由知名 Hacker Eric S. Raymond 所撰寫，教你如何正確的提出技術問題並獲得你滿意的答案。
-
 ## Go
 
 *   [QuantumNous/new-api](https://github.com/QuantumNous/new-api) - AI模型接口管理与分发系统，支持将多种大模型转为统一格式调用，支持OpenAI、Claude等格式，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。🍥 The next-generation LLM gateway and AI asset management system supports multiple languages.
@@ -1263,72 +1329,6 @@
 *   [ouuan/luogu-motaki](https://github.com/ouuan/luogu-motaki) - 服务端-客户端架构的洛谷冬日绘板工具
 
 *   [TheodoreKrypton/slacking-off-tools](https://github.com/TheodoreKrypton/slacking-off-tools) - 上班摸鱼工具集
-
-## Rust
-
-*   [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
-
-*   [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
-
-*   [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
-
-*   [Jerry-Terrasse/ollama\_load\_balancer](https://github.com/Jerry-Terrasse/ollama_load_balancer) - Autonomous Rust utility that load balances multiple https://ollama.com/ servers
-
-*   [risc0/risc0-ethereum](https://github.com/risc0/risc0-ethereum) - Integration of the RISC Zero verifiable compute platform with Ethereum and EVM chains.
-
-*   [benfred/py-spy](https://github.com/benfred/py-spy) - Sampling profiler for Python programs
-
-*   [BigBIueWhale/ollama\_load\_balancer](https://github.com/BigBIueWhale/ollama_load_balancer) - Autonomous Rust utility that load balances multiple https://ollama.com/ servers
-
-*   [dndx/phantun](https://github.com/dndx/phantun) - Transforms UDP stream into (fake) TCP streams that can go through Layer 3 & Layer 4 (NAPT) firewalls/NATs.
-
-*   [zu1k/srun](https://github.com/zu1k/srun) - srun 深澜认证登录，超轻量、多平台，支持多拨、自动探测IP、指定网卡
-
-*   [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
-
-*   [cloudflare/boringtun](https://github.com/cloudflare/boringtun) - Userspace WireGuard® Implementation in Rust
-
-*   [jtroo/kanata](https://github.com/jtroo/kanata) - Improve keyboard comfort and usability with advanced customization
-
-*   [atopx/typora-crack](https://github.com/atopx/typora-crack) -
-
-*   [jooaf/thoth](https://github.com/jooaf/thoth) - Terminal scratchpad inspired by the Heynote app
-
-*   [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
-
-*   [ismet55555/bieye](https://github.com/ismet55555/bieye) - A blazingly fast rust-based bionic reader for blazingly fast reading within a terminal console 🦀
-
-*   [microsoft/sudo](https://github.com/microsoft/sudo) - It's sudo, for Windows
-
-*   [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
-
-*   [MolotovCherry/virtual-display-rs](https://github.com/MolotovCherry/virtual-display-rs) - A Windows virtual display driver to add multiple virtual monitors to your PC! For Win10+. Works with VR, obs, streaming software, etc
-
-*   [JohanChane/clashtui](https://github.com/JohanChane/clashtui) - Mihomo (Clash.Meta) TUI Client
-
-*   [YiNNx/cmd-wrapped](https://github.com/YiNNx/cmd-wrapped) - 👩‍💻 A CLI Tool for Command Line Insights
-
-*   [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
-
-*   [greenhandzpx/Titanix](https://github.com/greenhandzpx/Titanix) - Titanix: A Unix-like OS.
-
-*   [takahirox/riscv-rust](https://github.com/takahirox/riscv-rust) - RISC-V processor emulator written in Rust+WASM
-
-*   [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
-
-*   [second-state/WasmEdge-WASINN-examples](https://github.com/second-state/WasmEdge-WASINN-examples) -
-
-*   [sigoden/upt](https://github.com/sigoden/upt) - Universal Package-management Tool for any OS.
-
-*   [lz1998/ricq](https://github.com/lz1998/ricq) - Rust 高性能 QQ 协议（原RS-QQ）。Linux-musl运行内存1.6MB。
-
-*   [chmln/sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative)
-
-*   [iTXTech/mcl-installer](https://github.com/iTXTech/mcl-installer) - MCL一键安装工具
-
-*   [Borber/seam](https://github.com/Borber/seam) - 获取多直播平台的直播源
-
-*   [PyO3/pyo3](https://github.com/PyO3/pyo3) - Rust bindings for the Python interpreter
 
 ## XML
 
