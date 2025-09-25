@@ -52,6 +52,8 @@
 
 ## Python
 
+*   [stepfun-ai/Step1X-Edit](https://github.com/stepfun-ai/Step1X-Edit) - A SOTA open-source image editing model, which aims to provide comparable performance against the closed-source models like GPT-4o and Gemini 2 Flash.
+
 *   [huchiyv/thefuckAiRule](https://github.com/huchiyv/thefuckAiRule) -
 
 *   [EvolvingLMMs-Lab/lmms-eval](https://github.com/EvolvingLMMs-Lab/lmms-eval) - One-for-All Multimodal Evaluation Toolkit Across Text, Image, Video, and Audio Tasks
@@ -738,7 +740,7 @@
 
 *   [cmu-db/bustub](https://github.com/cmu-db/bustub) - The BusTub Relational Database Management System (Educational)
 
-*   [NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) - TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and support state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT-LLM also contains components to create Python and C++ runtimes that orchestrate the inference execution in performant way.
+*   [NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) - TensorRT LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and support state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT LLM also contains components to create Python and C++ runtimes that orchestrate the inference execution in performant way.
 
 *   [swdet2710/Cobat\_simulation1999](https://github.com/swdet2710/Cobat_simulation1999) - 用于模拟重返未来1999的战斗
 
@@ -787,8 +789,6 @@
 *   [zerollzeng/tiny-tensorrt](https://github.com/zerollzeng/tiny-tensorrt) - Deploy your model with TensorRT quickly.
 
 *   [cryzlasm/ThunderOpenSDK](https://github.com/cryzlasm/ThunderOpenSDK) - 迅雷开放下载引擎, 收集, 使用
-
-*   [openvinotoolkit/openvino](https://github.com/openvinotoolkit/openvino) - OpenVINO™ is an open source toolkit for optimizing and deploying AI inference
 
 ## TypeScript
 
