@@ -818,7 +818,7 @@
 
 *   [xh321/LiteLoaderQQNT-Kill-Update](https://github.com/xh321/LiteLoaderQQNT-Kill-Update) - LiteLoaderQQNT 插件 - 关闭自动更新弹窗
 
-*   [xiyuesaves/LiteLoaderQQNT-lite\_tools](https://github.com/xiyuesaves/LiteLoaderQQNT-lite_tools) - LiteLoaderQQNT 插件 - 轻量工具箱 —— 轻量 · 优雅 · 高效
+*   [xiyuesaves/lite-tools](https://github.com/xiyuesaves/lite-tools) - LiteLoaderQQNT 插件 - 轻量工具箱 —— 轻量 · 优雅 · 高效
 
 *   [WenyanLiu/CCFrank4dblp](https://github.com/WenyanLiu/CCFrank4dblp) - Displays the China Computer Federation (CCF) recommended rank of international conferences and journals in the dblp, Google Scholar, Connected Papers and and Web of Science search results.
 
