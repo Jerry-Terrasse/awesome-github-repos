@@ -2,6 +2,7 @@
 
 ## Table of Contents
 
+*   [QML](#qml)
 *   [TypeScript](#typescript)
 *   [Python](#python)
 *   [Less](#less)
@@ -50,6 +51,10 @@
 *   [Verilog](#verilog)
 *   [VBScript](#vbscript)
 *   [Dockerfile](#dockerfile)
+
+## QML
+
+*   [jutraim/niri-caelestia-shell](https://github.com/jutraim/niri-caelestia-shell) - A very segsy desktop shell ported to niri wm.
 
 ## TypeScript
 
@@ -401,7 +406,7 @@
 
 *   [karpathy/build-nanogpt](https://github.com/karpathy/build-nanogpt) - Video+code lecture on building nanoGPT from scratch
 
-*   [Upsonic/Upsonic](https://github.com/Upsonic/Upsonic) - The most reliable AI agent framework that supports MCP.
+*   [Upsonic/Upsonic](https://github.com/Upsonic/Upsonic) - Agent Framework For Fintech
 
 *   [QQBackup/QQBackupNew](https://github.com/QQBackup/QQBackupNew) - 另一个玩具，预期是（很久以后）做成一个通用的导出工具。PR welcome!（目前用不了，别 star）
 
@@ -1510,8 +1515,6 @@
 ## V
 
 *   [l1mey112/crepl](https://github.com/l1mey112/crepl) - Compile and execute C code on the fly as you type it.
-
-*   [vlang/v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. Supports automatic C => V translation. https://vlang.io
 
 ## Vala
 
