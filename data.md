@@ -2,6 +2,7 @@
 
 ## Table of Contents
 
+*   [Kotlin](#kotlin)
 *   [Shell](#shell)
 *   [Assembly](#assembly)
 *   [QML](#qml)
@@ -15,7 +16,6 @@
 *   [Vue](#vue)
 *   [Go](#go)
 *   [C#](#c-1)
-*   [Kotlin](#kotlin)
 *   [C](#c-2)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [CSS](#css)
@@ -51,6 +51,22 @@
 *   [Verilog](#verilog)
 *   [VBScript](#vbscript)
 *   [Dockerfile](#dockerfile)
+*   [Vim Snippet](#vim-snippet)
+*   [Objective-C](#objective-c-1)
+*   [PHP](#php)
+*   [Makefile](#makefile)
+
+## Kotlin
+
+*   [HachimiWorld/hachimi-world-client](https://github.com/HachimiWorld/hachimi-world-client) - Hahimi World multiplatform client
+
+*   [pppscn/SmsForwarder](https://github.com/pppscn/SmsForwarder) - 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是学习与自用，如有BUG请提ISSUE，同时欢迎大家提PR指正
+
+*   [XayahSuSuSu/Android-DataBackup](https://github.com/XayahSuSuSu/Android-DataBackup) - DataBackup for Android 7.0+
+
+*   [mudkipme/MoeMemosAndroid](https://github.com/mudkipme/MoeMemosAndroid) - An app to help you capture thoughts and ideas
+
+*   [mzdluo123/TxCaptchaHelper](https://github.com/mzdluo123/TxCaptchaHelper) - 腾讯滑动验证码助手
 
 ## Shell
 
@@ -125,6 +141,10 @@
 *   [xiaoZ-hc/redtool](https://github.com/xiaoZ-hc/redtool) - 日常积累的一些红队工具及自己写的脚本，更偏向于一些diy的好用的工具，并不是一些比较常用的msf/awvs/xray这种
 
 *   [remote-android/redroid-doc](https://github.com/remote-android/redroid-doc) - redroid (Remote-Android) is a multi-arch, GPU enabled, Android in Cloud solution. Track issues / docs here
+
+*   [akinomyoga/ble.sh](https://github.com/akinomyoga/ble.sh) - Bash Line Editor―a line editor written in pure Bash with syntax highlighting, auto suggestions, vim modes, etc. for Bash interactive sessions.
+
+*   [okubax/dotfiles-1](https://github.com/okubax/dotfiles-1) - My configuration files.
 
 ## Assembly
 
@@ -239,6 +259,14 @@
 *   [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 
 *   [YunYouJun/air-conditioner](https://github.com/YunYouJun/air-conditioner) - ❄️ Yun Portable Air Conditoner. 云空调，便携小空调，为你的夏日带去清凉！
+
+*   [the1812/Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved) - 强大的哔哩哔哩增强脚本
+
+*   [zmide/study.zmide.com](https://github.com/zmide/study.zmide.com) - 全能搜题网页端源代码，全能搜题项目是一个基于开源社区公开贡献的永久免费搜题系统。
+
+*   [takayama-lily/oicq](https://github.com/takayama-lily/oicq) - Tencent QQ Bot Library for Node.js
+
+*   [wenyan-lang/wenyan](https://github.com/wenyan-lang/wenyan) - 文言文編程語言 A programming language for the ancient Chinese.
 
 ## Python
 
@@ -682,6 +710,54 @@
 
 *   [GraiaProject/Avilla](https://github.com/GraiaProject/Avilla) - The next-gen framework for IM development. Powered by Graia Project.
 
+*   [hsfzxjy/lambdex](https://github.com/hsfzxjy/lambdex) - Write complicated anonymous functions beyond lambdas in Python.
+
+*   [ArcletProject/Alconna](https://github.com/ArcletProject/Alconna) - A High-performance, Generality, Humane Python CLI Arguments Parser Library. 一个直观的、高性能、泛用的Python命令行参数解析器集成库
+
+*   [userElaina/translator](https://github.com/userElaina/translator) - 强烈谴责某二次元公司用 japanglish 变量名
+
+*   [ultralytics/yolov5](https://github.com/ultralytics/yolov5) - YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite
+
+*   [harrischristiansen/generals-bot](https://github.com/harrischristiansen/generals-bot) - Automated Client for generals.io
+
+*   [GraiaProject/Ariadne](https://github.com/GraiaProject/Ariadne) - 一个优雅且完备的 Python QQ 自动化框架，基于 Mirai API HTTP v2。    Powered by Graia Project.
+
+*   [Samueli924/chaoxing](https://github.com/Samueli924/chaoxing) - 超星学习通/超星尔雅/泛雅超星全自动无人值守完成任务点
+
+*   [GraiaProject/Application](https://github.com/GraiaProject/Application) - 一个设计精巧, 协议实现完备的, 基于 mirai-api-http 的即时聊天软件自动化框架.
+
+*   [tensorlayer/text-antispam](https://github.com/tensorlayer/text-antispam) - 商用级垃圾文本分类器
+
+*   [ht0Ruial/Jiyu\_udp\_attack](https://github.com/ht0Ruial/Jiyu_udp_attack) - 极域电子教室数据包(udp)重放攻击脚本
+
+*   [Megvii-BaseDetection/YOLOX](https://github.com/Megvii-BaseDetection/YOLOX) - YOLOX is a high-performance anchor-free YOLO, exceeding yolov3~v5 with MegEngine, ONNX, TensorRT, ncnn, and OpenVINO supported. Documentation: https://yolox.readthedocs.io/
+
+*   [Ice9Coffee/HoshinoBot](https://github.com/Ice9Coffee/HoshinoBot) - A qqbot for Princess Connect Re:Dive (and other usage :)
+
+*   [NKID00/moegirlpedia-category-search](https://github.com/NKID00/moegirlpedia-category-search) - 萌娘百科分类搜索工具　「黑发蓝瞳双马尾有呆毛又是黑客的人物一共有哪些？」
+
+*   [memset0/memsoti](https://github.com/memset0/memsoti) - 如果能光明正大用好轮子，没人会想写一个破轮子
+
+*   [ShiroDoMain/ATRI-qqbot](https://github.com/ShiroDoMain/ATRI-qqbot) - 一个高性能的qqbot
+
+*   [CharlesPikachu/pytools](https://github.com/CharlesPikachu/pytools) - Pytools: Some useful tools written by pure python.
+
+*   [hjptriplebee/Chinese\_poem\_generator](https://github.com/hjptriplebee/Chinese_poem_generator) - 唐诗、宋词生成器，有详细说明
+
+*   [ctf-wiki/ctf-wiki](https://github.com/ctf-wiki/ctf-wiki) - Come and join us, we need you!
+
+*   [ouuan/Anti-YiGeDingLia](https://github.com/ouuan/Anti-YiGeDingLia) - 反一个顶俩
+
+*   [JXFLS/Signer](https://github.com/JXFLS/Signer) - 某ms的自动签到
+
+*   [JXFLS/loj-to-uoj](https://github.com/JXFLS/loj-to-uoj) - LOJ to UOJ
+
+*   [Jerry-Terrasse/BP\_MNIST](https://github.com/Jerry-Terrasse/BP_MNIST) - Back Propagation on MNIST training set.
+
+*   [Jerry-Terrasse/LlfSystem](https://github.com/Jerry-Terrasse/LlfSystem) - A experimental python project in which we try to figure out how intelligent a script can perform in CR.
+
+*   [bxtkezhan/idscience](https://github.com/bxtkezhan/idscience) - Intelligent data science toolkit（use pypy）
+
 ## Less
 
 *   [jerrykuku/luci-theme-argon](https://github.com/jerrykuku/luci-theme-argon) - Argon is a clean and tidy OpenWrt LuCI theme that allows users to customize their login interface with images or videos.   It also supports automatic and manual switching between light and dark modes.
@@ -783,6 +859,28 @@
 *   [changkun/modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial) - 📚 Modern C++ Tutorial: C++11/14/17/20 On the Fly | https://changkun.de/modern-cpp/
 
 *   [Almamu/linux-wallpaperengine](https://github.com/Almamu/linux-wallpaperengine) - Wallpaper Engine backgrounds for Linux!
+
+*   [zerollzeng/tiny-tensorrt](https://github.com/zerollzeng/tiny-tensorrt) - Deploy your model with TensorRT quickly.
+
+*   [cryzlasm/ThunderOpenSDK](https://github.com/cryzlasm/ThunderOpenSDK) - 迅雷开放下载引擎, 收集, 使用
+
+*   [openvinotoolkit/openvino](https://github.com/openvinotoolkit/openvino) - OpenVINO™ is an open source toolkit for optimizing and deploying AI inference
+
+*   [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
+
+*   [xinyang-go/LabelRoboMaster](https://github.com/xinyang-go/LabelRoboMaster) - RoboMaster智能数据集标注工具
+
+*   [halide/Halide](https://github.com/halide/Halide) - a language for fast, portable data-parallel computation
+
+*   [atcoder/ac-library](https://github.com/atcoder/ac-library) - AtCoder Library
+
+*   [johnBuffer/NoCol](https://github.com/johnBuffer/NoCol) - Trajectories finder
+
+*   [DayBreak-u/chineseocr\_lite](https://github.com/DayBreak-u/chineseocr_lite) - 超轻量级中文ocr，支持竖排文字识别, 支持ncnn、mnn、tnn推理 ( dbnet(1.8M) + crnn(2.5M) + anglenet(378KB)) 总模型仅4.7M
+
+*   [ClnViewer/Android-fast-screen-capture](https://github.com/ClnViewer/Android-fast-screen-capture) - Android fast screen capture take a screenshot or compressed stream on any other Android device. Not needed root devices. ADB required.
+
+*   [danielkrupinski/Osiris](https://github.com/danielkrupinski/Osiris) - Cross-platform game hack for Counter-Strike 2 with Panorama-based GUI.
 
 ## miscellaneous
 
@@ -904,6 +1002,26 @@
 
 *   [Brx86/Icalingua](https://github.com/Brx86/Icalingua) - A Linux client for QQ and more :electron:
 
+*   [ouuan/luogu-motaki](https://github.com/ouuan/luogu-motaki) - 服务端-客户端架构的洛谷冬日绘板工具
+
+*   [TheodoreKrypton/slacking-off-tools](https://github.com/TheodoreKrypton/slacking-off-tools) - 上班摸鱼工具集
+
+*   [ivmm/Student-resources](https://github.com/ivmm/Student-resources) - 本文介绍的是利用学生、教职工身份可以享受到的相关学生优惠、教育优惠或教师优惠的权益，但也希望各位享受权利的同时不要忘记自己的义务，不要售卖、转手自己的学生优惠、教育优惠的资格，使得其他同学无法受益。
+
+*   [TRSWNCA/jiaran](https://github.com/TRSWNCA/jiaran) - Jiaran Heiheihei
+
+*   [trekhleb/state-of-the-art-shitcode](https://github.com/trekhleb/state-of-the-art-shitcode) - 💩State-of-the-art shitcode principles your project should follow to call it a proper shitcode
+
+*   [varundtsfi/Xiaomi\_Vector\_issue](https://github.com/varundtsfi/Xiaomi_Vector_issue) -
+
+*   [harvic/FightingCoder](https://github.com/harvic/FightingCoder) - 写给程序员的电子书《逆天改命——启舰的100条程序员人生建议》
+
+*   [mozilla/geckodriver](https://github.com/mozilla/geckodriver) - WebDriver Classic proxy for automating Firefox through Marionette
+
+*   [jybicu/jyb.icu](https://github.com/jybicu/jyb.icu) - 19 学竞赛，49 入国军
+
+*   [996icu/996.ICU](https://github.com/996icu/996.ICU) - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
+
 ## Rust
 
 *   [YaLTeR/niri](https://github.com/YaLTeR/niri) - A scrollable-tiling Wayland compositor.
@@ -973,6 +1091,12 @@
 *   [Borber/seam](https://github.com/Borber/seam) - 获取多直播平台的直播源
 
 *   [PyO3/pyo3](https://github.com/PyO3/pyo3) - Rust bindings for the Python interpreter
+
+*   [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
+
+*   [ReFirmLabs/binwalk](https://github.com/ReFirmLabs/binwalk) - Firmware Analysis Tool
+
+*   [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 
 ## JavaScript
 
@@ -1096,6 +1220,32 @@
 
 *   [thlorenz/brace](https://github.com/thlorenz/brace) - 📔 browserify compatible version of the ace editor.
 
+*   [ryanhanwu/How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way) - 本文原文由知名 Hacker Eric S. Raymond 所撰寫，教你如何正確的提出技術問題並獲得你滿意的答案。
+
+*   [syzoj/syzoj](https://github.com/syzoj/syzoj) - 一个用于算法竞赛的在线评测系统。An online judge system for algorithm competition.
+
+*   [maxzhang666/OneKeyVip](https://github.com/maxzhang666/OneKeyVip) - 一键Vip解析工具箱,功能介绍：1、一站式音乐搜索解决方案；2、bilibili视频封面获取；3、bilibili视频下载；4、商品历史价格展示(一次性告别虚假降价)；5、优惠券查询；6、CSDN界面清理(复制解锁)
+
+*   [yaronn/blessed-contrib](https://github.com/yaronn/blessed-contrib) - Build terminal dashboards using ascii/ansi art and javascript
+
+*   [minbrowser/min](https://github.com/minbrowser/min) - A fast, minimal browser that protects your privacy
+
+*   [nondanee/UnblockNeteaseMusic](https://github.com/nondanee/UnblockNeteaseMusic) - Revive unavailable songs for Netease Cloud Music
+
+*   [111116/webosu](https://github.com/111116/webosu) - ➤⓵ web rhythm game (unofficial osu!) http://osugame.online/
+
+*   [menzi11/BullshitGenerator](https://github.com/menzi11/BullshitGenerator) -  Needs to generate some texts to test if my GUI rendering codes good or not. so I made this.
+
+*   [Llf0703/Luogu-Benben-Deleter](https://github.com/Llf0703/Luogu-Benben-Deleter) - 洛谷系统提示犇犇自动删除脚本
+
+*   [JXFLS/JXOJ](https://github.com/JXFLS/JXOJ) - JXOJ——基于UOJ的信息学在线评测系统
+
+*   [bilibili-helper/bilibili-helper-o](https://github.com/bilibili-helper/bilibili-helper-o) - 哔哩哔哩 (bilibili.com) 辅助工具，可以替换播放器、推送通知并进行一些快捷操作
+
+*   [doublespeakgames/adarkroom](https://github.com/doublespeakgames/adarkroom) - A Dark Room - A Minimalist Text Adventure
+
+*   [liriliri/eruda](https://github.com/liriliri/eruda) - Console for mobile browsers
+
 ## Vue
 
 *   [algerkong/AlgerMusicPlayer](https://github.com/algerkong/AlgerMusicPlayer) - 一个第三方音乐播放器、本地服务、桌面歌词、音乐下载、远程控制
@@ -1115,6 +1265,8 @@
 *   [YunYouJun/cook](https://github.com/YunYouJun/cook) - 🍲 好的，今天我们来做菜！OK, Let's Cook!
 
 *   [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
+
+*   [LightNovelShelf/Web](https://github.com/LightNovelShelf/Web) - 轻书架的Vue前端
 
 ## Go
 
@@ -1182,6 +1334,10 @@
 
 *   [mislav/hub](https://github.com/mislav/hub) - A command-line tool that makes git easier to use with GitHub.
 
+*   [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
+
+*   [xalanq/cf-tool](https://github.com/xalanq/cf-tool) - :bar\_chart: Codeforces CLI (Submit, Parse, Test, etc.). Support Contests, Gym, Groups, acmsguru, Windows, macOS, Linux, 7 MB
+
 ## C\#
 
 *   [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System - Server Backend & API
@@ -1202,15 +1358,9 @@
 
 *   [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks
 
-## Kotlin
+*   [BeyondDimension/SteamTools](https://github.com/BeyondDimension/SteamTools) - 🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。
 
-*   [pppscn/SmsForwarder](https://github.com/pppscn/SmsForwarder) - 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是学习与自用，如有BUG请提ISSUE，同时欢迎大家提PR指正
-
-*   [XayahSuSuSu/Android-DataBackup](https://github.com/XayahSuSuSu/Android-DataBackup) - DataBackup for Android 7.0+
-
-*   [mudkipme/MoeMemosAndroid](https://github.com/mudkipme/MoeMemosAndroid) - An app to help you capture thoughts and ideas
-
-*   [mzdluo123/TxCaptchaHelper](https://github.com/mzdluo123/TxCaptchaHelper) - 腾讯滑动验证码助手
+*   [OpenRA/ra2](https://github.com/OpenRA/ra2) - A Red Alert 2 mod for the OpenRA game engine
 
 ## C
 
@@ -1304,6 +1454,20 @@
 
 *   [Harry-hhj/CVRM2021-sjtu](https://github.com/Harry-hhj/CVRM2021-sjtu) - 上海交通大学 RoboMaster 2021赛季 视觉代码
 
+*   [bad-apple-lab/Bad-Apple](https://github.com/bad-apple-lab/Bad-Apple) - Bad-Apple!!: Play the video in the console as ASCII art.
+
+*   [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
+
+*   [swaywm/sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor
+
+*   [TRSWNCA/OS-Note](https://github.com/TRSWNCA/OS-Note) -
+
+*   [DeviceFarmer/minitouch](https://github.com/DeviceFarmer/minitouch) - Minimal multitouch event producer for Android.
+
+*   [Awesome-HarmonyOS/HarmonyOS](https://github.com/Awesome-HarmonyOS/HarmonyOS) - A curated list of awesome things related to HarmonyOS. 华为鸿蒙操作系统。
+
+*   [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
+
 ## Jupyter Notebook
 
 *   [google-gemini/gemini-fullstack-langgraph-quickstart](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart) - Get started with building Fullstack Agents using Gemini 2.5 and LangGraph
@@ -1336,6 +1500,14 @@
 
 *   [datawhalechina/team-learning-cv](https://github.com/datawhalechina/team-learning-cv) - 主要存储Datawhale组队学习中“计算机视觉”方向的资料。
 
+*   [leisurelicht/wtfpython-cn](https://github.com/leisurelicht/wtfpython-cn) - wtfpython的中文翻译/持续🚧.../ 能力有限，欢迎帮我改进翻译
+
+*   [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
+
+*   [bloc97/Anime4K](https://github.com/bloc97/Anime4K) - A High-Quality Real Time Upscaler for Anime Video
+
+*   [ljpzzz/machinelearning](https://github.com/ljpzzz/machinelearning) - My blogs and code for machine learning. http://cnblogs.com/pinard
+
 ## CSS
 
 *   [aj-r/Evil-2048](https://github.com/aj-r/Evil-2048) - A fork of 2048 (https://github.com/gabrielecirulli/2048)
@@ -1345,6 +1517,10 @@
 *   [MrOtherGuy/firefox-csshacks](https://github.com/MrOtherGuy/firefox-csshacks) - Collection of userstyles affecting the browser
 
 *   [MUKAPP/LiteLoaderQQNT-MSpring-Theme](https://github.com/MUKAPP/LiteLoaderQQNT-MSpring-Theme) - LiteLoaderQQNT 主题，优雅 · 粉粉 · 细致
+
+*   [Jerry-Terrasse/CriticalTune](https://github.com/Jerry-Terrasse/CriticalTune) - A tuning tool with GUI for robomaster.
+
+*   [memset0/oi-todolist](https://github.com/memset0/oi-todolist) - Todo list for OI learning, powered by Python + flask + Argon Design
 
 ## XML
 
@@ -1369,6 +1545,8 @@
 *   [awesomeWM/awesome](https://github.com/awesomeWM/awesome) - awesome window manager
 
 *   [lcpz/awesome-copycats](https://github.com/lcpz/awesome-copycats) - Awesome WM themes
+
+*   [tkkcc/ArkLights](https://github.com/tkkcc/ArkLights) - 明日方舟速通 arknights 本仓库不再维护，请使用  https://github.com/AegirTech/ArkLights
 
 ## HTML
 
@@ -1395,6 +1573,14 @@
 *   [summertime-wu/make\_cnblogs\_better](https://github.com/summertime-wu/make_cnblogs_better) - 博客园样式美化、自定义博客园样式
 
 *   [Innei/shuffle-article](https://github.com/Innei/shuffle-article) - 在 DOM 上打乱文字，而非视觉上。
+
+*   [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) - 计算机自学指南
+
+*   [PKUanonym/REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT) - 清华大学计算机系课程攻略 Guidance for courses in Department of Computer Science and Technology, Tsinghua University
+
+*   [QSCTech/zju-icicles](https://github.com/QSCTech/zju-icicles) - 浙江大学课程攻略共享计划
+
+*   [Pelom777/AzurLaneSD](https://github.com/Pelom777/AzurLaneSD) - 碧蓝航线SD小人图鉴
 
 ## TeX
 
@@ -1450,6 +1636,12 @@
 
 *   [bilibili/DanmakuFlameMaster](https://github.com/bilibili/DanmakuFlameMaster) - Android开源弹幕引擎·烈焰弹幕使 ～
 
+*   [Yink/Amadeus](https://github.com/Yink/Amadeus) - A side project that aims to replicate the Amadeus App shown in Steins;Gate 0.
+
+*   [DeviceFarmer/STFService.apk](https://github.com/DeviceFarmer/STFService.apk) - Monitor and perform various actions on your Android device. Not meant for actual user devices.
+
+*   [penglu20/Bigbang](https://github.com/penglu20/Bigbang) - The source code of Bigbang App: http://www.coolapk.com/apk/com.forfan.bigbang  /   https://play.google.com/store/apps/details?id=com.forfan.bigbang
+
 ## Perl
 
 *   [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada:
@@ -1498,6 +1690,8 @@
 
 *   [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 
+*   [Jerry-Terrasse/Programming](https://github.com/Jerry-Terrasse/Programming) - Backup my codes.
+
 ## Markdown
 
 *   [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
@@ -1515,6 +1709,8 @@
 ## V
 
 *   [l1mey112/crepl](https://github.com/l1mey112/crepl) - Compile and execute C code on the fly as you type it.
+
+*   [vlang/v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. Supports automatic C => V translation. https://vlang.io
 
 ## Vala
 
@@ -1549,3 +1745,19 @@
 *   [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
 
 *   [nakanomikuorg/arch-guide](https://github.com/nakanomikuorg/arch-guide) - ✨ archlinux 简明指南 | 本指南包含从 archlinux 安装、显卡驱动、日常软件配置、多媒体制作、编程等你可能需要的全部内容 | 提供在线文档 ✨
+
+## Vim Snippet
+
+*   [TRSWNCA/Algorithm-Snippets](https://github.com/TRSWNCA/Algorithm-Snippets) - Vim Algorithm Snippets for Competitive Programming (codeforces, acm, oi, atcoder etc.)
+
+## Objective-C
+
+*   [nakst/gf](https://github.com/nakst/gf) - A GDB frontend for Linux.
+
+## PHP
+
+*   [zhuchunshu/CodeFec-Htshop](https://github.com/zhuchunshu/CodeFec-Htshop) - CodeFec欢太商城自动领积分插件
+
+## Makefile
+
+*   [bitemyapp/learnhaskell](https://github.com/bitemyapp/learnhaskell) - Learn Haskell
