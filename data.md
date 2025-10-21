@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-*   [Objective-C](#objective-c)
+*   [Java](#java)
 *   [Shell](#shell)
 *   [C++](#c)
 *   [miscellaneous](#miscellaneous)
@@ -28,7 +28,6 @@
 *   [Svelte](#svelte)
 *   [Hack](#hack)
 *   [Batchfile](#batchfile)
-*   [Java](#java)
 *   [Perl](#perl)
 *   [CoffeeScript](#coffeescript)
 *   [Dart](#dart)
@@ -41,10 +40,11 @@
 *   [Haskell](#haskell)
 *   [Roff](#roff)
 *   [Markdown](#markdown)
-*   [Objective-C++](#objective-c-1)
+*   [Objective-C++](#objective-c)
 *   [SystemVerilog](#systemverilog)
 *   [V](#v)
 *   [Vala](#vala)
+*   [PowerShell](#powershell)
 *   [Clojure](#clojure)
 *   [Typst](#typst)
 *   [Tcl](#tcl)
@@ -52,14 +52,49 @@
 *   [VBScript](#vbscript)
 *   [Dockerfile](#dockerfile)
 *   [Vim Snippet](#vim-snippet)
+*   [Objective-C](#objective-c-1)
 *   [PHP](#php)
 *   [Makefile](#makefile)
 
-## Objective-C
+## Java
 
-*   [wsvn53/scrcpy-mobile](https://github.com/wsvn53/scrcpy-mobile) - Ported scrcpy for mobile platforms, to remotely control Android devices on your iPhone or Android phone.
+*   [zwc456baby/ScrcpyForAndroid](https://github.com/zwc456baby/ScrcpyForAndroid) - scrcpy for android
 
-*   [nakst/gf](https://github.com/nakst/gf) - A GDB frontend for Linux.
+*   [termux/termux-tasker](https://github.com/termux/termux-tasker) - Termux add-on app for integration with Tasker.
+
+*   [likeadragonmaid/Switch-My-Slot-Android](https://github.com/likeadragonmaid/Switch-My-Slot-Android) - Switch My Slot Android app helps you switch between android A & B slots
+
+*   [april-projects/april-zh-hotspot-push](https://github.com/april-projects/april-zh-hotspot-push) - 知乎热点推送
+
+*   [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
+
+*   [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version in translation
+
+*   [LSPosed/LSPatch](https://github.com/LSPosed/LSPatch) - LSPatch: A non-root Xposed framework extending from LSPosed
+
+*   [LSPosed/LSPosed](https://github.com/LSPosed/LSPosed) - LSPosed Framework
+
+*   [mzm1183710118/2021HIT\_DB](https://github.com/mzm1183710118/2021HIT_DB) - 2021春季学期数据库个人资料整理
+
+*   [modesty/pdf2json](https://github.com/modesty/pdf2json) - converts binary PDF to JSON and text, for server-side PDF processing and command-line use. Zero dependency.
+
+*   [zhkl0228/unidbg](https://github.com/zhkl0228/unidbg) - Allows you to emulate an Android native library, and an experimental  iOS emulation
+
+*   [Logisim-Ita/Logisim](https://github.com/Logisim-Ita/Logisim) - Logisim Italian Fork
+
+*   [Jerry-Terrasse/AircraftWar](https://github.com/Jerry-Terrasse/AircraftWar) - OOP Experiment Aircraft War
+
+*   [cuiyungao/JavaCodeExamples](https://github.com/cuiyungao/JavaCodeExamples) -
+
+*   [limpoxe/Android-Plugin-Framework](https://github.com/limpoxe/Android-Plugin-Framework) - Android插件框架，免安装运行插件APK ，支持独立插件和非独立插件
+
+*   [bilibili/DanmakuFlameMaster](https://github.com/bilibili/DanmakuFlameMaster) - Android开源弹幕引擎·烈焰弹幕使 ～
+
+*   [Yink/Amadeus](https://github.com/Yink/Amadeus) - A side project that aims to replicate the Amadeus App shown in Steins;Gate 0.
+
+*   [DeviceFarmer/STFService.apk](https://github.com/DeviceFarmer/STFService.apk) - Monitor and perform various actions on your Android device. Not meant for actual user devices.
+
+*   [penglu20/Bigbang](https://github.com/penglu20/Bigbang) - The source code of Bigbang App: http://www.coolapk.com/apk/com.forfan.bigbang  /   https://play.google.com/store/apps/details?id=com.forfan.bigbang
 
 ## Shell
 
@@ -195,7 +230,7 @@
 
 *   [cmu-db/bustub](https://github.com/cmu-db/bustub) - The BusTub Relational Database Management System (Educational)
 
-*   [NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) - TensorRT LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and support state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT LLM also contains components to create Python and C++ runtimes that orchestrate the inference execution in performant way.
+*   [NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) - TensorRT LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and supports state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT LLM also contains components to create Python and C++ runtimes that orchestrate the inference execution in a performant way.
 
 *   [swdet2710/Cobat\_simulation1999](https://github.com/swdet2710/Cobat_simulation1999) - 用于模拟重返未来1999的战斗
 
@@ -274,6 +309,8 @@
 *   [l0o0/Zotero-WPS](https://github.com/l0o0/Zotero-WPS) -
 
 *   [FoundationAgents/awesome-foundation-agents](https://github.com/FoundationAgents/awesome-foundation-agents) - About Awesome things towards foundation agents. Papers / Repos / Blogs / ...
+
+*   [sjzar/chatlog](https://github.com/sjzar/chatlog) - chat log tool, easily use your own chat data. 聊天记录工具，轻松使用自己的聊天数据
 
 *   [lkimuk/cpp-generative-metaprogramming](https://github.com/lkimuk/cpp-generative-metaprogramming) - C++ Generative Metaprogramming
 
@@ -405,7 +442,7 @@
 
 ## Kotlin
 
-*   [HachimiWorld/hachimi-world-client](https://github.com/HachimiWorld/hachimi-world-client) - Hahimi World multiplatform client
+*   [HachimiWorld/hachimi-world-client](https://github.com/HachimiWorld/hachimi-world-client) - Hachimi World multiplatform client
 
 *   [pppscn/SmsForwarder](https://github.com/pppscn/SmsForwarder) - 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是学习与自用，如有BUG请提ISSUE，同时欢迎大家提PR指正
 
@@ -1281,8 +1318,6 @@
 
 *   [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
 
-*   [sjzar/chatlog](https://github.com/sjzar/chatlog) - chat log tool, easily use your own chat data. 聊天记录工具，轻松使用自己的聊天数据
-
 *   [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
 
 *   [XTLS/REALITY](https://github.com/XTLS/REALITY) - THE NEXT FUTURE
@@ -1609,46 +1644,6 @@
 
 *   [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
 
-*   [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.
-
-## Java
-
-*   [termux/termux-tasker](https://github.com/termux/termux-tasker) - Termux add-on app for integration with Tasker.
-
-*   [likeadragonmaid/Switch-My-Slot-Android](https://github.com/likeadragonmaid/Switch-My-Slot-Android) - Switch My Slot Android app helps you switch between android A & B slots
-
-*   [april-projects/april-zh-hotspot-push](https://github.com/april-projects/april-zh-hotspot-push) - 知乎热点推送
-
-*   [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
-
-*   [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version in translation
-
-*   [LSPosed/LSPatch](https://github.com/LSPosed/LSPatch) - LSPatch: A non-root Xposed framework extending from LSPosed
-
-*   [LSPosed/LSPosed](https://github.com/LSPosed/LSPosed) - LSPosed Framework
-
-*   [mzm1183710118/2021HIT\_DB](https://github.com/mzm1183710118/2021HIT_DB) - 2021春季学期数据库个人资料整理
-
-*   [modesty/pdf2json](https://github.com/modesty/pdf2json) - converts binary PDF to JSON and text, for server-side PDF processing and command-line use. Zero dependency.
-
-*   [zhkl0228/unidbg](https://github.com/zhkl0228/unidbg) - Allows you to emulate an Android native library, and an experimental  iOS emulation
-
-*   [Logisim-Ita/Logisim](https://github.com/Logisim-Ita/Logisim) - Logisim Italian Fork
-
-*   [Jerry-Terrasse/AircraftWar](https://github.com/Jerry-Terrasse/AircraftWar) - OOP Experiment Aircraft War
-
-*   [cuiyungao/JavaCodeExamples](https://github.com/cuiyungao/JavaCodeExamples) -
-
-*   [limpoxe/Android-Plugin-Framework](https://github.com/limpoxe/Android-Plugin-Framework) - Android插件框架，免安装运行插件APK ，支持独立插件和非独立插件
-
-*   [bilibili/DanmakuFlameMaster](https://github.com/bilibili/DanmakuFlameMaster) - Android开源弹幕引擎·烈焰弹幕使 ～
-
-*   [Yink/Amadeus](https://github.com/Yink/Amadeus) - A side project that aims to replicate the Amadeus App shown in Steins;Gate 0.
-
-*   [DeviceFarmer/STFService.apk](https://github.com/DeviceFarmer/STFService.apk) - Monitor and perform various actions on your Android device. Not meant for actual user devices.
-
-*   [penglu20/Bigbang](https://github.com/penglu20/Bigbang) - The source code of Bigbang App: http://www.coolapk.com/apk/com.forfan.bigbang  /   https://play.google.com/store/apps/details?id=com.forfan.bigbang
-
 ## Perl
 
 *   [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada:
@@ -1721,6 +1716,10 @@
 
 *   [Sweets/tiramisu](https://github.com/Sweets/tiramisu) - Desktop notifications, the UNIX way
 
+## PowerShell
+
+*   [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.
+
 ## Clojure
 
 *   [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
@@ -1750,6 +1749,10 @@
 ## Vim Snippet
 
 *   [TRSWNCA/Algorithm-Snippets](https://github.com/TRSWNCA/Algorithm-Snippets) - Vim Algorithm Snippets for Competitive Programming (codeforces, acm, oi, atcoder etc.)
+
+## Objective-C
+
+*   [nakst/gf](https://github.com/nakst/gf) - A GDB frontend for Linux.
 
 ## PHP
 
