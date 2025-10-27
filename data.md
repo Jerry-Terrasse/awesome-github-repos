@@ -3,11 +3,12 @@
 ## Table of Contents
 
 *   [C](#c)
+*   [C#](#c-1)
 *   [HTML](#html)
 *   [TypeScript](#typescript)
 *   [Java](#java)
 *   [Shell](#shell)
-*   [C++](#c-1)
+*   [C++](#c-2)
 *   [miscellaneous](#miscellaneous)
 *   [Kotlin](#kotlin)
 *   [Assembly](#assembly)
@@ -18,7 +19,6 @@
 *   [JavaScript](#javascript)
 *   [Vue](#vue)
 *   [Go](#go)
-*   [C#](#c-2)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [CSS](#css)
 *   [XML](#xml)
@@ -56,6 +56,8 @@
 *   [Makefile](#makefile)
 
 ## C
+
+*   [Uotan-Dev/uotan\_riscv\_emu](https://github.com/Uotan-Dev/uotan_riscv_emu) - Uotan Emulator, a RV64IMAFDC Emulator that boots Linux, (but has some problem with getty...)
 
 *   [SafePalWallet/safepal-x1](https://github.com/SafePalWallet/safepal-x1) -
 
@@ -162,6 +164,32 @@
 *   [Awesome-HarmonyOS/HarmonyOS](https://github.com/Awesome-HarmonyOS/HarmonyOS) - A curated list of awesome things related to HarmonyOS. 华为鸿蒙操作系统。
 
 *   [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
+
+## C\#
+
+*   [Uotan-Dev/EVBHelper](https://github.com/Uotan-Dev/EVBHelper) - A Cross-Platform Tool for Evaluation Board.
+
+*   [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System - Server Backend & API
+
+*   [nomi-san/parsec-vdd](https://github.com/nomi-san/parsec-vdd) - ✨ Perfect virtual display for game streaming
+
+*   [Uotan-Dev/UotanToolboxNT](https://github.com/Uotan-Dev/UotanToolboxNT) - 现代化 Android & OpenHarmony 工具箱 | A Modern Toolbox for Android & OpenHarmony Devices
+
+*   [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
+
+*   [Uotan-Dev/UotanToolBox](https://github.com/Uotan-Dev/UotanToolBox) - 柚坛搞机工具箱
+
+*   [BililiveRecorder/BililiveRecorder](https://github.com/BililiveRecorder/BililiveRecorder) - 录播姬 | mikufans 生放送录制
+
+*   [hayahane/RIEngine](https://github.com/hayahane/RIEngine) -
+
+*   [nilaoda/N\_m3u8DL-CLI](https://github.com/nilaoda/N_m3u8DL-CLI) - \[.NET] m3u8 downloader 开源的命令行m3u8/HLS/dash下载器，支持普通AES-128-CBC解密，多线程，自定义请求头等. 支持简体中文,繁体中文和英文. English Supported.
+
+*   [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks
+
+*   [BeyondDimension/SteamTools](https://github.com/BeyondDimension/SteamTools) - 🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。
+
+*   [OpenRA/ra2](https://github.com/OpenRA/ra2) - A Red Alert 2 mod for the OpenRA game engine
 
 ## HTML
 
@@ -350,8 +378,6 @@
 *   [Yink/Amadeus](https://github.com/Yink/Amadeus) - A side project that aims to replicate the Amadeus App shown in Steins;Gate 0.
 
 *   [DeviceFarmer/STFService.apk](https://github.com/DeviceFarmer/STFService.apk) - Monitor and perform various actions on your Android device. Not meant for actual user devices.
-
-*   [penglu20/Bigbang](https://github.com/penglu20/Bigbang) - The source code of Bigbang App: http://www.coolapk.com/apk/com.forfan.bigbang  /   https://play.google.com/store/apps/details?id=com.forfan.bigbang
 
 ## Shell
 
@@ -1425,8 +1451,6 @@
 
 *   [Llf0703/Luogu-Benben-Deleter](https://github.com/Llf0703/Luogu-Benben-Deleter) - 洛谷系统提示犇犇自动删除脚本
 
-*   [JXFLS/JXOJ](https://github.com/JXFLS/JXOJ) - JXOJ——基于UOJ的信息学在线评测系统
-
 ## Vue
 
 *   [algerkong/AlgerMusicPlayer](https://github.com/algerkong/AlgerMusicPlayer) - 一个第三方音乐播放器、本地服务、桌面歌词、音乐下载、远程控制
@@ -1516,30 +1540,6 @@
 *   [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 
 *   [xalanq/cf-tool](https://github.com/xalanq/cf-tool) - :bar\_chart: Codeforces CLI (Submit, Parse, Test, etc.). Support Contests, Gym, Groups, acmsguru, Windows, macOS, Linux, 7 MB
-
-## C\#
-
-*   [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System - Server Backend & API
-
-*   [nomi-san/parsec-vdd](https://github.com/nomi-san/parsec-vdd) - ✨ Perfect virtual display for game streaming
-
-*   [Uotan-Dev/UotanToolboxNT](https://github.com/Uotan-Dev/UotanToolboxNT) - 现代化 Android & OpenHarmony 工具箱 | A Modern Toolbox for Android & OpenHarmony Devices
-
-*   [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
-
-*   [Uotan-Dev/UotanToolBox](https://github.com/Uotan-Dev/UotanToolBox) - 柚坛搞机工具箱
-
-*   [BililiveRecorder/BililiveRecorder](https://github.com/BililiveRecorder/BililiveRecorder) - 录播姬 | mikufans 生放送录制
-
-*   [hayahane/RIEngine](https://github.com/hayahane/RIEngine) -
-
-*   [nilaoda/N\_m3u8DL-CLI](https://github.com/nilaoda/N_m3u8DL-CLI) - \[.NET] m3u8 downloader 开源的命令行m3u8/HLS/dash下载器，支持普通AES-128-CBC解密，多线程，自定义请求头等. 支持简体中文,繁体中文和英文. English Supported.
-
-*   [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks
-
-*   [BeyondDimension/SteamTools](https://github.com/BeyondDimension/SteamTools) - 🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。
-
-*   [OpenRA/ra2](https://github.com/OpenRA/ra2) - A Red Alert 2 mod for the OpenRA game engine
 
 ## Jupyter Notebook
 
