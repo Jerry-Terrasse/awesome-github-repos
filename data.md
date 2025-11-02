@@ -3,6 +3,7 @@
 ## Table of Contents
 
 *   [Go](#go)
+*   [Jupyter Notebook](#jupyter-notebook)
 *   [Vue](#vue)
 *   [Python](#python)
 *   [Shell](#shell)
@@ -19,7 +20,6 @@
 *   [QML](#qml)
 *   [Less](#less)
 *   [Rust](#rust)
-*   [Jupyter Notebook](#jupyter-notebook)
 *   [CSS](#css)
 *   [XML](#xml)
 *   [Ruby](#ruby)
@@ -56,6 +56,8 @@
 *   [Makefile](#makefile)
 
 ## Go
+
+*   [XTLS/Trojan-killer](https://github.com/XTLS/Trojan-killer) - Detect TLS in TLS.
 
 *   [kaiachain/kaia](https://github.com/kaiachain/kaia) -
 
@@ -124,6 +126,46 @@
 *   [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 
 *   [xalanq/cf-tool](https://github.com/xalanq/cf-tool) - :bar\_chart: Codeforces CLI (Submit, Parse, Test, etc.). Support Contests, Gym, Groups, acmsguru, Windows, macOS, Linux, 7 MB
+
+## Jupyter Notebook
+
+*   [minsixhao/bilibil\_summarize](https://github.com/minsixhao/bilibil_summarize) - B站(Bilibili)视频 AI总结摘要
+
+*   [google-gemini/gemini-fullstack-langgraph-quickstart](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart) - Get started with building Fullstack Agents using Gemini 2.5 and LangGraph
+
+*   [IDEA-Research/Grounded-SAM-2](https://github.com/IDEA-Research/Grounded-SAM-2) - Grounded SAM 2: Ground and Track Anything in Videos with Grounding DINO, Florence-2 and SAM 2
+
+*   [microsoft/OmniParser](https://github.com/microsoft/OmniParser) - A simple screen parsing tool towards pure vision based GUI agent
+
+*   [idavidrein/gpqa](https://github.com/idavidrein/gpqa) - GPQA: A Graduate-Level Google-Proof Q\&A Benchmark
+
+*   [mistralai/mistral-inference](https://github.com/mistralai/mistral-inference) - Official inference library for Mistral models
+
+*   [openai/CLIP](https://github.com/openai/CLIP) - CLIP (Contrastive Language-Image Pretraining),  Predict the most relevant text snippet given an image
+
+*   [SakanaAI/AI-Scientist](https://github.com/SakanaAI/AI-Scientist) - The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery 🧑‍🔬
+
+*   [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
+
+*   [prophesier/diff-svc](https://github.com/prophesier/diff-svc) - Singing Voice Conversion via diffusion model
+
+*   [CompVis/latent-diffusion](https://github.com/CompVis/latent-diffusion) - High-Resolution Image Synthesis with Latent Diffusion Models
+
+*   [facebookresearch/segment-anything](https://github.com/facebookresearch/segment-anything) - The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
+
+*   [williamyang1991/Rerender\_A\_Video](https://github.com/williamyang1991/Rerender_A_Video) - \[SIGGRAPH Asia 2023] Rerender A Video: Zero-Shot Text-Guided Video-to-Video Translation
+
+*   [HardhatNew/BreakingCaptcha](https://github.com/HardhatNew/BreakingCaptcha) - Breaking CAPTCHA project aims to build ML models for solving CAPTCHAs, enhance ReCAPTCHA security, and develop a user-friendly web app. Required skills include programming, web dev, DB management, cryptography, AI/ML, and collaboration. Research and critical thinking abilities are also essential.
+
+*   [nolanbconaway/pitchfork-data](https://github.com/nolanbconaway/pitchfork-data) - Analyses on over 18,000 pitchfork reviews.
+
+*   [datawhalechina/team-learning-cv](https://github.com/datawhalechina/team-learning-cv) - 主要存储Datawhale组队学习中“计算机视觉”方向的资料。
+
+*   [leisurelicht/wtfpython-cn](https://github.com/leisurelicht/wtfpython-cn) - wtfpython的中文翻译/持续🚧.../ 能力有限，欢迎帮我改进翻译
+
+*   [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
+
+*   [bloc97/Anime4K](https://github.com/bloc97/Anime4K) - A High-Quality Real Time Upscaler for Anime Video
 
 ## Vue
 
@@ -631,8 +673,6 @@
 
 *   [ouuan/Anti-YiGeDingLia](https://github.com/ouuan/Anti-YiGeDingLia) - 反一个顶俩
 
-*   [JXFLS/Signer](https://github.com/JXFLS/Signer) - 某ms的自动签到
-
 ## Shell
 
 *   [pocketblue/pocketblue](https://github.com/pocketblue/pocketblue) - Fedora Atomic for mobile devices
@@ -859,7 +899,7 @@
 
 ## C
 
-*   [Uotan-Dev/uotan\_riscv\_emu](https://github.com/Uotan-Dev/uotan_riscv_emu) - Uotan Emulator, a RV64IMAFDC Emulator that boots Linux. (Alpine boots. Debian support WIP.)
+*   [Uotan-Dev/uotan\_riscv\_emu](https://github.com/Uotan-Dev/uotan_riscv_emu) - Uotan RISC-V Emulator, a RV64IMAFDC Emulator that boots Linux. (Alpine boots. Debian support WIP.)
 
 *   [SafePalWallet/safepal-x1](https://github.com/SafePalWallet/safepal-x1) -
 
@@ -962,8 +1002,6 @@
 *   [TRSWNCA/OS-Note](https://github.com/TRSWNCA/OS-Note) -
 
 *   [DeviceFarmer/minitouch](https://github.com/DeviceFarmer/minitouch) - Minimal multitouch event producer for Android.
-
-*   [Awesome-HarmonyOS/HarmonyOS](https://github.com/Awesome-HarmonyOS/HarmonyOS) - A curated list of awesome things related to HarmonyOS. 华为鸿蒙操作系统。
 
 ## C\#
 
@@ -1544,44 +1582,6 @@
 *   [ReFirmLabs/binwalk](https://github.com/ReFirmLabs/binwalk) - Firmware Analysis Tool
 
 *   [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
-
-## Jupyter Notebook
-
-*   [google-gemini/gemini-fullstack-langgraph-quickstart](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart) - Get started with building Fullstack Agents using Gemini 2.5 and LangGraph
-
-*   [IDEA-Research/Grounded-SAM-2](https://github.com/IDEA-Research/Grounded-SAM-2) - Grounded SAM 2: Ground and Track Anything in Videos with Grounding DINO, Florence-2 and SAM 2
-
-*   [microsoft/OmniParser](https://github.com/microsoft/OmniParser) - A simple screen parsing tool towards pure vision based GUI agent
-
-*   [idavidrein/gpqa](https://github.com/idavidrein/gpqa) - GPQA: A Graduate-Level Google-Proof Q\&A Benchmark
-
-*   [mistralai/mistral-inference](https://github.com/mistralai/mistral-inference) - Official inference library for Mistral models
-
-*   [openai/CLIP](https://github.com/openai/CLIP) - CLIP (Contrastive Language-Image Pretraining),  Predict the most relevant text snippet given an image
-
-*   [SakanaAI/AI-Scientist](https://github.com/SakanaAI/AI-Scientist) - The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery 🧑‍🔬
-
-*   [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
-
-*   [prophesier/diff-svc](https://github.com/prophesier/diff-svc) - Singing Voice Conversion via diffusion model
-
-*   [CompVis/latent-diffusion](https://github.com/CompVis/latent-diffusion) - High-Resolution Image Synthesis with Latent Diffusion Models
-
-*   [facebookresearch/segment-anything](https://github.com/facebookresearch/segment-anything) - The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
-
-*   [williamyang1991/Rerender\_A\_Video](https://github.com/williamyang1991/Rerender_A_Video) - \[SIGGRAPH Asia 2023] Rerender A Video: Zero-Shot Text-Guided Video-to-Video Translation
-
-*   [HardhatNew/BreakingCaptcha](https://github.com/HardhatNew/BreakingCaptcha) - Breaking CAPTCHA project aims to build ML models for solving CAPTCHAs, enhance ReCAPTCHA security, and develop a user-friendly web app. Required skills include programming, web dev, DB management, cryptography, AI/ML, and collaboration. Research and critical thinking abilities are also essential.
-
-*   [nolanbconaway/pitchfork-data](https://github.com/nolanbconaway/pitchfork-data) - Analyses on over 18,000 pitchfork reviews.
-
-*   [datawhalechina/team-learning-cv](https://github.com/datawhalechina/team-learning-cv) - 主要存储Datawhale组队学习中“计算机视觉”方向的资料。
-
-*   [leisurelicht/wtfpython-cn](https://github.com/leisurelicht/wtfpython-cn) - wtfpython的中文翻译/持续🚧.../ 能力有限，欢迎帮我改进翻译
-
-*   [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
-
-*   [bloc97/Anime4K](https://github.com/bloc97/Anime4K) - A High-Quality Real Time Upscaler for Anime Video
 
 ## CSS
 
