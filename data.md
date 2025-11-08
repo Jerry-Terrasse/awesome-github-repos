@@ -1051,7 +1051,7 @@
 
 ## C
 
-*   [Uotan-Dev/uotan\_riscv\_emu](https://github.com/Uotan-Dev/uotan_riscv_emu) - Uotan RISC-V Emulator, a RV64IMAFDC Emulator that boots Linux. (Alpine boots. Debian support WIP.)
+*   [Uotan-Dev/uotan\_riscv\_emu](https://github.com/Uotan-Dev/uotan_riscv_emu) - Uotan RISC-V Emulator, a RV64IMAFDC Emulator that boots Linux. (Alpine boots. Debian support WIP. JIT v2 support WIP)
 
 *   [SafePalWallet/safepal-x1](https://github.com/SafePalWallet/safepal-x1) -
 
