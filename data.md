@@ -2,16 +2,16 @@
 
 ## Table of Contents
 
+*   [C](#c)
 *   [Python](#python)
 *   [JavaScript](#javascript)
 *   [TypeScript](#typescript)
 *   [Kotlin](#kotlin)
-*   [C#](#c)
+*   [C#](#c-1)
 *   [Go](#go)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [Vue](#vue)
 *   [Shell](#shell)
-*   [C](#c-1)
 *   [HTML](#html)
 *   [Java](#java)
 *   [C++](#c-2)
@@ -54,6 +54,114 @@
 *   [Objective-C](#objective-c-1)
 *   [PHP](#php)
 *   [Makefile](#makefile)
+
+## C
+
+*   [Proxmark/proxmark3](https://github.com/Proxmark/proxmark3) - Proxmark 3
+
+*   [Uotan-Dev/uotan\_riscv\_emu](https://github.com/Uotan-Dev/uotan_riscv_emu) - Uotan RISC-V Emulator, a RV64IMAFDC Emulator that boots Linux. (Alpine boots. Debian support WIP. JIT v2 support WIP)
+
+*   [SafePalWallet/safepal-x1](https://github.com/SafePalWallet/safepal-x1) -
+
+*   [openwall/john](https://github.com/openwall/john) - John the Ripper jumbo - advanced offline password cracker, which supports hundreds of hash and cipher types, and runs on many operating systems, CPUs, GPUs, and even some FPGAs
+
+*   [hufrea/byedpi](https://github.com/hufrea/byedpi) - Bypass DPI
+
+*   [CrackTC/rofi-ts](https://github.com/CrackTC/rofi-ts) - translation plugin for rofi using translate-shell
+
+*   [valinet/ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) - This project aims to enhance the working environment on Windows
+
+*   [petronny/pinyin-completion](https://github.com/petronny/pinyin-completion) - complete path name based upon the pinyin acronym of Chinese characters
+
+*   [map220v/sm8550-mainline](https://github.com/map220v/sm8550-mainline) - Mainline kernel for Xiaomi Pad 6S Pro 12.4
+
+*   [Keruspe/GPaste](https://github.com/Keruspe/GPaste) - Clipboard management system
+
+*   [CristianHenzel/ClipIt](https://github.com/CristianHenzel/ClipIt) - ClipIt clipboard manager for GTK+
+
+*   [Xfennec/progress](https://github.com/Xfennec/progress) - Linux tool to show progress for cp, mv, dd, ... (formerly known as cv)
+
+*   [tenox7/ttyplot](https://github.com/tenox7/ttyplot) - a realtime plotting utility for terminal/console with data input from stdin
+
+*   [j10labs/wandview](https://github.com/j10labs/wandview) - Mobile Viewer for W\&B, built on top of Flutter.
+
+*   [josephcolton/tcpping](https://github.com/josephcolton/tcpping) - Utility for performing a TCP based ping
+
+*   [radxa-pkg/aic8800](https://github.com/radxa-pkg/aic8800) - Aicsemi aic8800 Wi-Fi driver. Official support for Radxa devices only.
+
+*   [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color) - The world's most popular non-default computer lockscreen.
+
+*   [icsnju/visualinux](https://github.com/icsnju/visualinux) - A visualized debugging framework to aid in understanding the Linux kernel.
+
+*   [RubyMetric/chsrc](https://github.com/RubyMetric/chsrc) - chsrc 全平台通用换源工具与框架. Change Source everywhere for every software
+
+*   [wkz/ply](https://github.com/wkz/ply) - Light-weight Dynamic Tracer for Linux
+
+*   [cuber/ngx\_http\_google\_filter\_module](https://github.com/cuber/ngx_http_google_filter_module) - Nginx Module for Google Mirror
+
+*   [anakryiko/bpf-ringbuf-examples](https://github.com/anakryiko/bpf-ringbuf-examples) - Examples of using BPF ring buffer APIs
+
+*   [libbpf/bpftool](https://github.com/libbpf/bpftool) - Automated upstream mirror for bpftool stand-alone build.
+
+*   [containers/bubblewrap](https://github.com/containers/bubblewrap) - Low-level unprivileged sandboxing tool used by Flatpak and similar projects
+
+*   [Bumblebee-Project/bbswitch](https://github.com/Bumblebee-Project/bbswitch) - Disable discrete graphics (currently nvidia only)
+
+*   [mkottman/acpi\_call](https://github.com/mkottman/acpi_call) - A linux kernel module that enables calls to ACPI methods through /proc/acpi/call. Now with support for Integer, String and Buffer parameters.
+
+*   [snu-csl/rfuse](https://github.com/snu-csl/rfuse) - RFUSE: Modernizing Userspace Filesystem Framework through Scalable Kernel-Userspace Communication
+
+*   [tsl0922/ttyd](https://github.com/tsl0922/ttyd) - Share your terminal over the web
+
+*   [libbpf/libbpf](https://github.com/libbpf/libbpf) - Automated upstream mirror for libbpf stand-alone build.
+
+*   [BasedHardware/omi](https://github.com/BasedHardware/omi) - AI wearables. Put it on, speak, transcribe, automatically
+
+*   [lakinduakash/linux-wifi-hotspot](https://github.com/lakinduakash/linux-wifi-hotspot) - Feature-rich wifi hotspot creator for Linux which provides both GUI and command-line interface. It is also able to create a hotspot using the same wifi card which is connected to an AP already ( Similar to Windows 10).
+
+*   [filebench/filebench](https://github.com/filebench/filebench) - File system and storage benchmark that uses a custom language to generate a large variety of workloads.
+
+*   [i3/i3lock](https://github.com/i3/i3lock) - improved screen locker
+
+*   [aignacio/nox](https://github.com/aignacio/nox) - RISC-V Nox core
+
+*   [xuwd1/mechrevo-wujie14-kmod](https://github.com/xuwd1/mechrevo-wujie14-kmod) - Linux powermode and keyboard backlight kernel module for Mechrevo wujie14 laptop
+
+*   [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
+
+*   [pygame-community/pygame-ce](https://github.com/pygame-community/pygame-ce) - 🐍🎮 pygame - Community Edition is a FOSS Python library for multimedia applications (like games). Built on top of the excellent SDL library.
+
+*   [systemd/systemd](https://github.com/systemd/systemd) - The systemd System and Service Manager
+
+*   [hrvach/deskhop](https://github.com/hrvach/deskhop) - Fast Desktop Switching Device
+
+*   [jordansissel/xdotool](https://github.com/jordansissel/xdotool) - fake keyboard/mouse input, window management, and more
+
+*   [HITSZ-OpenCS/HITSZ-OpenCS](https://github.com/HITSZ-OpenCS/HITSZ-OpenCS) - 哈尔滨工业大学（深圳）计算机专业课程攻略 | Guidance for courses in Department of Computer Science, Harbin Institute of Technology (Shenzhen)
+
+*   [ylxdzsw/rtl8821CU](https://github.com/ylxdzsw/rtl8821CU) - Realtek RTL8811CU/RTL8821CU USB Wi-Fi adapter driver for Linux
+
+*   [brektrou/rtl8821CU](https://github.com/brektrou/rtl8821CU) - Realtek RTL8811CU/RTL8821CU USB Wi-Fi adapter driver for Linux
+
+*   [pocketpy/pocketpy](https://github.com/pocketpy/pocketpy) - Portable Python 3.x Interpreter in Modern C for Game Scripting
+
+*   [davatorium/rofi](https://github.com/davatorium/rofi) - Rofi: A window switcher, application launcher and dmenu replacement
+
+*   [arata-nvm/mitnal](https://github.com/arata-nvm/mitnal) - Twitter client for UEFI
+
+*   [sshwy/yaoj-judger](https://github.com/sshwy/yaoj-judger) - Judger for the future yaoj
+
+*   [Harry-hhj/CVRM2021-sjtu](https://github.com/Harry-hhj/CVRM2021-sjtu) - 上海交通大学 RoboMaster 2021赛季 视觉代码
+
+*   [bad-apple-lab/Bad-Apple](https://github.com/bad-apple-lab/Bad-Apple) - Bad-Apple!!: Play the video in the console as ASCII art.
+
+*   [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
+
+*   [swaywm/sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor
+
+*   [TRSWNCA/OS-Note](https://github.com/TRSWNCA/OS-Note) -
+
+*   [DeviceFarmer/minitouch](https://github.com/DeviceFarmer/minitouch) - Minimal multitouch event producer for Android.
 
 ## Python
 
@@ -1049,112 +1157,6 @@
 
 *   [akinomyoga/ble.sh](https://github.com/akinomyoga/ble.sh) - Bash Line Editor―a line editor written in pure Bash with syntax highlighting, auto suggestions, vim modes, etc. for Bash interactive sessions.
 
-## C
-
-*   [Uotan-Dev/uotan\_riscv\_emu](https://github.com/Uotan-Dev/uotan_riscv_emu) - Uotan RISC-V Emulator, a RV64IMAFDC Emulator that boots Linux. (Alpine boots. Debian support WIP. JIT v2 support WIP)
-
-*   [SafePalWallet/safepal-x1](https://github.com/SafePalWallet/safepal-x1) -
-
-*   [openwall/john](https://github.com/openwall/john) - John the Ripper jumbo - advanced offline password cracker, which supports hundreds of hash and cipher types, and runs on many operating systems, CPUs, GPUs, and even some FPGAs
-
-*   [hufrea/byedpi](https://github.com/hufrea/byedpi) - Bypass DPI
-
-*   [CrackTC/rofi-ts](https://github.com/CrackTC/rofi-ts) - translation plugin for rofi using translate-shell
-
-*   [valinet/ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) - This project aims to enhance the working environment on Windows
-
-*   [petronny/pinyin-completion](https://github.com/petronny/pinyin-completion) - complete path name based upon the pinyin acronym of Chinese characters
-
-*   [map220v/sm8550-mainline](https://github.com/map220v/sm8550-mainline) - Mainline kernel for Xiaomi Pad 6S Pro 12.4
-
-*   [Keruspe/GPaste](https://github.com/Keruspe/GPaste) - Clipboard management system
-
-*   [CristianHenzel/ClipIt](https://github.com/CristianHenzel/ClipIt) - ClipIt clipboard manager for GTK+
-
-*   [Xfennec/progress](https://github.com/Xfennec/progress) - Linux tool to show progress for cp, mv, dd, ... (formerly known as cv)
-
-*   [tenox7/ttyplot](https://github.com/tenox7/ttyplot) - a realtime plotting utility for terminal/console with data input from stdin
-
-*   [j10labs/wandview](https://github.com/j10labs/wandview) - Mobile Viewer for W\&B, built on top of Flutter.
-
-*   [josephcolton/tcpping](https://github.com/josephcolton/tcpping) - Utility for performing a TCP based ping
-
-*   [radxa-pkg/aic8800](https://github.com/radxa-pkg/aic8800) - Aicsemi aic8800 Wi-Fi driver. Official support for Radxa devices only.
-
-*   [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color) - The world's most popular non-default computer lockscreen.
-
-*   [icsnju/visualinux](https://github.com/icsnju/visualinux) - A visualized debugging framework to aid in understanding the Linux kernel.
-
-*   [RubyMetric/chsrc](https://github.com/RubyMetric/chsrc) - chsrc 全平台通用换源工具与框架. Change Source everywhere for every software
-
-*   [wkz/ply](https://github.com/wkz/ply) - Light-weight Dynamic Tracer for Linux
-
-*   [cuber/ngx\_http\_google\_filter\_module](https://github.com/cuber/ngx_http_google_filter_module) - Nginx Module for Google Mirror
-
-*   [anakryiko/bpf-ringbuf-examples](https://github.com/anakryiko/bpf-ringbuf-examples) - Examples of using BPF ring buffer APIs
-
-*   [libbpf/bpftool](https://github.com/libbpf/bpftool) - Automated upstream mirror for bpftool stand-alone build.
-
-*   [containers/bubblewrap](https://github.com/containers/bubblewrap) - Low-level unprivileged sandboxing tool used by Flatpak and similar projects
-
-*   [Bumblebee-Project/bbswitch](https://github.com/Bumblebee-Project/bbswitch) - Disable discrete graphics (currently nvidia only)
-
-*   [mkottman/acpi\_call](https://github.com/mkottman/acpi_call) - A linux kernel module that enables calls to ACPI methods through /proc/acpi/call. Now with support for Integer, String and Buffer parameters.
-
-*   [snu-csl/rfuse](https://github.com/snu-csl/rfuse) - RFUSE: Modernizing Userspace Filesystem Framework through Scalable Kernel-Userspace Communication
-
-*   [tsl0922/ttyd](https://github.com/tsl0922/ttyd) - Share your terminal over the web
-
-*   [libbpf/libbpf](https://github.com/libbpf/libbpf) - Automated upstream mirror for libbpf stand-alone build.
-
-*   [BasedHardware/omi](https://github.com/BasedHardware/omi) - AI wearables. Put it on, speak, transcribe, automatically
-
-*   [lakinduakash/linux-wifi-hotspot](https://github.com/lakinduakash/linux-wifi-hotspot) - Feature-rich wifi hotspot creator for Linux which provides both GUI and command-line interface. It is also able to create a hotspot using the same wifi card which is connected to an AP already ( Similar to Windows 10).
-
-*   [filebench/filebench](https://github.com/filebench/filebench) - File system and storage benchmark that uses a custom language to generate a large variety of workloads.
-
-*   [i3/i3lock](https://github.com/i3/i3lock) - improved screen locker
-
-*   [aignacio/nox](https://github.com/aignacio/nox) - RISC-V Nox core
-
-*   [xuwd1/mechrevo-wujie14-kmod](https://github.com/xuwd1/mechrevo-wujie14-kmod) - Linux powermode and keyboard backlight kernel module for Mechrevo wujie14 laptop
-
-*   [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
-
-*   [pygame-community/pygame-ce](https://github.com/pygame-community/pygame-ce) - 🐍🎮 pygame - Community Edition is a FOSS Python library for multimedia applications (like games). Built on top of the excellent SDL library.
-
-*   [systemd/systemd](https://github.com/systemd/systemd) - The systemd System and Service Manager
-
-*   [hrvach/deskhop](https://github.com/hrvach/deskhop) - Fast Desktop Switching Device
-
-*   [jordansissel/xdotool](https://github.com/jordansissel/xdotool) - fake keyboard/mouse input, window management, and more
-
-*   [HITSZ-OpenCS/HITSZ-OpenCS](https://github.com/HITSZ-OpenCS/HITSZ-OpenCS) - 哈尔滨工业大学（深圳）计算机专业课程攻略 | Guidance for courses in Department of Computer Science, Harbin Institute of Technology (Shenzhen)
-
-*   [ylxdzsw/rtl8821CU](https://github.com/ylxdzsw/rtl8821CU) - Realtek RTL8811CU/RTL8821CU USB Wi-Fi adapter driver for Linux
-
-*   [brektrou/rtl8821CU](https://github.com/brektrou/rtl8821CU) - Realtek RTL8811CU/RTL8821CU USB Wi-Fi adapter driver for Linux
-
-*   [pocketpy/pocketpy](https://github.com/pocketpy/pocketpy) - Portable Python 3.x Interpreter in Modern C for Game Scripting
-
-*   [davatorium/rofi](https://github.com/davatorium/rofi) - Rofi: A window switcher, application launcher and dmenu replacement
-
-*   [arata-nvm/mitnal](https://github.com/arata-nvm/mitnal) - Twitter client for UEFI
-
-*   [sshwy/yaoj-judger](https://github.com/sshwy/yaoj-judger) - Judger for the future yaoj
-
-*   [Harry-hhj/CVRM2021-sjtu](https://github.com/Harry-hhj/CVRM2021-sjtu) - 上海交通大学 RoboMaster 2021赛季 视觉代码
-
-*   [bad-apple-lab/Bad-Apple](https://github.com/bad-apple-lab/Bad-Apple) - Bad-Apple!!: Play the video in the console as ASCII art.
-
-*   [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
-
-*   [swaywm/sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor
-
-*   [TRSWNCA/OS-Note](https://github.com/TRSWNCA/OS-Note) -
-
-*   [DeviceFarmer/minitouch](https://github.com/DeviceFarmer/minitouch) - Minimal multitouch event producer for Android.
-
 ## HTML
 
 *   [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui) - Xray panel supporting multi-protocol multi-user expire day & traffic & IP limit (Vmess, Vless, Trojan, ShadowSocks, Wireguard, Tunnel, Mixed, HTTP)
@@ -1580,8 +1582,6 @@
 *   [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
 
 *   [ReFirmLabs/binwalk](https://github.com/ReFirmLabs/binwalk) - Firmware Analysis Tool
-
-*   [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 
 ## CSS
 
