@@ -2,6 +2,7 @@
 
 ## Table of Contents
 
+*   [Typst](#typst)
 *   [TypeScript](#typescript)
 *   [C](#c)
 *   [Python](#python)
@@ -45,7 +46,6 @@
 *   [V](#v)
 *   [Vala](#vala)
 *   [Clojure](#clojure)
-*   [Typst](#typst)
 *   [Tcl](#tcl)
 *   [Verilog](#verilog)
 *   [VBScript](#vbscript)
@@ -54,6 +54,12 @@
 *   [Objective-C](#objective-c-1)
 *   [PHP](#php)
 *   [Makefile](#makefile)
+
+## Typst
+
+*   [NinZeige/Heyiwei](https://github.com/NinZeige/Heyiwei) - 何呓谓，充满了何意味的Typst中文占位符
+
+*   [OrangeX4/Chinese-Resume-in-Typst](https://github.com/OrangeX4/Chinese-Resume-in-Typst) - 使用 Typst 编写的中文简历, 语法简洁, 样式美观, 开箱即用, 可选是否显示照片
 
 ## TypeScript
 
@@ -762,8 +768,6 @@
 *   [hjptriplebee/Chinese\_poem\_generator](https://github.com/hjptriplebee/Chinese_poem_generator) - 唐诗、宋词生成器，有详细说明
 
 *   [ctf-wiki/ctf-wiki](https://github.com/ctf-wiki/ctf-wiki) - Come and join us, we need you!
-
-*   [ouuan/Anti-YiGeDingLia](https://github.com/ouuan/Anti-YiGeDingLia) - 反一个顶俩
 
 ## JavaScript
 
@@ -1720,10 +1724,6 @@
 ## Clojure
 
 *   [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
-
-## Typst
-
-*   [OrangeX4/Chinese-Resume-in-Typst](https://github.com/OrangeX4/Chinese-Resume-in-Typst) - 使用 Typst 编写的中文简历, 语法简洁, 样式美观, 开箱即用, 可选是否显示照片
 
 ## Tcl
 
