@@ -805,7 +805,7 @@
 
 *   [tengattack/certbot-dns-aliyun](https://github.com/tengattack/certbot-dns-aliyun) - A certbot dns plugin to obtain certificates using aliyun.
 
-*   [CASIA-IVA-Lab/FastSAM](https://github.com/CASIA-IVA-Lab/FastSAM) - Fast Segment Anything
+*   [CASIA-LMC-Lab/FastSAM](https://github.com/CASIA-LMC-Lab/FastSAM) - Fast Segment Anything
 
 *   [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - CLI platform to experiment with codegen. Precursor to: https://lovable.dev
 
