@@ -1091,8 +1091,6 @@
 
 *   [daeuniverse/dae](https://github.com/daeuniverse/dae) - eBPF-based Linux high-performance transparent proxy solution.
 
-*   [akile-network/akile\_monitor](https://github.com/akile-network/akile_monitor) - Akile Monitor
-
 *   [natesales/q](https://github.com/natesales/q) - A tiny command line DNS client with support for UDP, TCP, DoT, DoH, DoQ and ODoH.
 
 *   [TypicalAM/goread](https://github.com/TypicalAM/goread) - Beautiful program to read your RSS/Atom feeds right in the terminal!
@@ -1220,6 +1218,8 @@
 *   [MrAMS/KiCad2EasyEDAGerber](https://github.com/MrAMS/KiCad2EasyEDAGerber) - Convert KiCad gerber to EasyEDA gerber file
 
 *   [VR-25/acc](https://github.com/VR-25/acc) - Advanced Charging Controller
+
+*   [akile-network/akile\_monitor](https://github.com/akile-network/akile_monitor) - Akile Monitor
 
 *   [haugene/docker-transmission-openvpn](https://github.com/haugene/docker-transmission-openvpn) - Docker container running Transmission torrent client with WebUI over an OpenVPN tunnel
 
