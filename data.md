@@ -1181,8 +1181,6 @@
 
 *   [heyman/heynote](https://github.com/heyman/heynote) - A dedicated scratchpad for power users
 
-*   [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
-
 *   [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 
 *   [wangyz1999/LiteLoaderQQNT-GPT-Reply](https://github.com/wangyz1999/LiteLoaderQQNT-GPT-Reply) - 在QQNT直接使用ChatGPT发消息 | Use ChatGPT in QQNT
@@ -1638,6 +1636,8 @@
 *   [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 
 *   [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop) - 💪🏻 Blazing-fast system monitoring for your desktop (built with Rust, Tauri & Svelte)
+
+*   [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 
 ## Hack
 
