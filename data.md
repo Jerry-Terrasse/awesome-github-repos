@@ -2,6 +2,7 @@
 
 ## Table of Contents
 
+*   [Python](#python)
 *   [Go](#go)
 *   [Vue](#vue)
 *   [miscellaneous](#miscellaneous)
@@ -11,7 +12,6 @@
 *   [C++](#c)
 *   [Typst](#typst)
 *   [C](#c-1)
-*   [Python](#python)
 *   [JavaScript](#javascript)
 *   [C#](#c-2)
 *   [Jupyter Notebook](#jupyter-notebook)
@@ -54,6 +54,484 @@
 *   [Objective-C](#objective-c-1)
 *   [PHP](#php)
 *   [Makefile](#makefile)
+
+## Python
+
+*   [allenai/olmocr](https://github.com/allenai/olmocr) - Toolkit for linearizing PDFs for LLM datasets/training
+
+*   [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
+
+*   [open-compass/VLMEvalKit](https://github.com/open-compass/VLMEvalKit) - Open-source evaluation toolkit of large multi-modality models (LMMs), support 220+ LMMs, 80+ benchmarks
+
+*   [microsoft/debugpy](https://github.com/microsoft/debugpy) - An implementation of the Debug Adapter Protocol for Python
+
+*   [stepfun-ai/Step1X-Edit](https://github.com/stepfun-ai/Step1X-Edit) - A SOTA open-source image editing model, which aims to provide comparable performance against the closed-source models like GPT-4o and Gemini 2 Flash.
+
+*   [huchiyv/thefuckAiRule](https://github.com/huchiyv/thefuckAiRule) -
+
+*   [EvolvingLMMs-Lab/lmms-eval](https://github.com/EvolvingLMMs-Lab/lmms-eval) - One-for-All Multimodal Evaluation Toolkit Across Text, Image, Video, and Audio Tasks
+
+*   [ljw1004/mini\_agent](https://github.com/ljw1004/mini_agent) - A mini AI agent CLI, similar to Claude Code and Gemini CLI
+
+*   [zai-org/GLM-V](https://github.com/zai-org/GLM-V) - GLM-4.5V and GLM-4.1V-Thinking: Towards Versatile Multimodal Reasoning with Scalable Reinforcement Learning
+
+*   [opendatalab/MinerU](https://github.com/opendatalab/MinerU) - Transforms complex documents like PDFs into LLM-ready markdown/JSON for your Agentic workflows.
+
+*   [dpyyds/DPbot](https://github.com/dpyyds/DPbot) - DPbot是一个基于Python的机器人框架，支持插件化开发，提供了丰富的功能接口，可基于此框架拓展为群活跃助手、台账机器人、定时推送机器人、ai画图机器人、智能客服、返利机器人。
+
+*   [pwxcoo/chinese-xinhua](https://github.com/pwxcoo/chinese-xinhua) - :orange\_book: 中华新华字典数据库。包括歇后语，成语，词语，汉字。
+
+*   [openai/gpt-oss](https://github.com/openai/gpt-oss) - gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI
+
+*   [Aruelius/wenshushu](https://github.com/Aruelius/wenshushu) - 基于 https://www.wenshushu.cn （文叔叔） 上传与下载文件的 Python 脚本
+
+*   [modelscope/ms-swift](https://github.com/modelscope/ms-swift) - Use PEFT or Full-parameter to CPT/SFT/DPO/GRPO 500+ LLMs (Qwen3, Qwen3-MoE, Llama4, GLM4.5, InternLM3, DeepSeek-R1, ...) and 200+ MLLMs (Qwen3-VL, Qwen3-Omni, InternVL3.5, Ovis2.5, Llava, GLM4v, Phi4, ...) (AAAI 2025).
+
+*   [gaogaotiantian/dowhen](https://github.com/gaogaotiantian/dowhen) - An intuitive and low-overhead instrumentation tool for Python
+
+*   [voicepaw/so-vits-svc-fork](https://github.com/voicepaw/so-vits-svc-fork) - so-vits-svc fork with realtime support, improved interface and more features.
+
+*   [JiuTian-VL/MoME](https://github.com/JiuTian-VL/MoME) - \[NeurIPS 2024] MoME: Mixture of Multimodal Experts for Generalist Multimodal Large Language Models
+
+*   [maple-research-lab/SLOT](https://github.com/maple-research-lab/SLOT) -
+
+*   [ruixin31/Spurious\_Rewards](https://github.com/ruixin31/Spurious_Rewards) -
+
+*   [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - DeerFlow is a community-driven Deep Research framework, combining language models with tools like web search, crawling, and Python execution, while contributing back to the open-source community.
+
+*   [finaldie/auto-news](https://github.com/finaldie/auto-news) - A personal news aggregator to pull information from multi-sources + LLM (ChatGPT/Gemini/Ollama via LangChain) to help us reading efficiently with less noises, the sources including: Tweets, RSS, YouTube, Web Articles, Reddit, and personal Journal notes.
+
+*   [ByteDance-Seed/Bagel](https://github.com/ByteDance-Seed/Bagel) - Open-source unified multimodal model
+
+*   [InternLM/InternBootcamp](https://github.com/InternLM/InternBootcamp) -
+
+*   [yuchenlin/rebiber](https://github.com/yuchenlin/rebiber) - A simple tool to update bib entries with their official information (e.g., DBLP or the ACL anthology).
+
+*   [toslali-ibm/trl](https://github.com/toslali-ibm/trl) - Train transformer language models with reinforcement learning.
+
+*   [volcengine/verl](https://github.com/volcengine/verl) - verl: Volcano Engine Reinforcement Learning for LLMs
+
+*   [shibing624/open-o1](https://github.com/shibing624/open-o1) - open-o1: Using GPT-4o with CoT to Create o1-like Reasoning Chains
+
+*   [camel-ai/loong](https://github.com/camel-ai/loong) - 🐉 Loong: Synthesize Long CoTs at Scale through Verifiers.
+
+*   [wonderNefelibata/Awesome-LRM-Safety](https://github.com/wonderNefelibata/Awesome-LRM-Safety) - Awesome Large Reasoning Model(LRM) Safety.This repository is used to collect security-related research on large reasoning models such as DeepSeek-R1 and OpenAI o1, which are currently very popular.
+
+*   [camel-ai/camel](https://github.com/camel-ai/camel) - 🐫 CAMEL: The first and the best multi-agent framework. Finding the Scaling Law of Agents. https://www.camel-ai.org
+
+*   [camel-ai/owl](https://github.com/camel-ai/owl) - 🦉 OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation
+
+*   [FoundationAgents/OpenManus](https://github.com/FoundationAgents/OpenManus) - No fortress, purely open ground.  OpenManus is Coming.
+
+*   [OpenGVLab/InternVL](https://github.com/OpenGVLab/InternVL) - \[CVPR 2024 Oral] InternVL Family: A Pioneering Open-Source Alternative to GPT-4o.  接近GPT-4o表现的开源多模态对话模型
+
+*   [kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers) - A Flexible Framework for Experiencing Cutting-edge LLM Inference Optimizations
+
+*   [houtianze/bypy](https://github.com/houtianze/bypy) - Python client for Baidu Yun (Personal Cloud Storage) 百度云/百度网盘Python客户端
+
+*   [linux-do/lottery](https://github.com/linux-do/lottery) - LINUX DO Lottery
+
+*   [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: Code Less, Make More
+
+*   [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) -
+
+*   [guofei9987/blind\_watermark](https://github.com/guofei9987/blind_watermark) - Blind\&Invisible Watermark ，图片盲水印，提取水印无须原图！
+
+*   [YiyanXu/DiFashion](https://github.com/YiyanXu/DiFashion) - Diffusion Models for Generative Outfit Recommendation
+
+*   [mofeng-git/One-KVM](https://github.com/mofeng-git/One-KVM) - One-KVM 是基于廉价计算机硬件和 PiKVM 软件二次开发的 BIOS 级远程控制项目。
+
+*   [v1k45/python-qBittorrent](https://github.com/v1k45/python-qBittorrent) - Python wrapper for qBittorrent Web API (for versions above v3.1.x)
+
+*   [breezedeus/CnOCR](https://github.com/breezedeus/CnOCR) - CnOCR: Awesome Chinese/English OCR Python toolkits based on PyTorch. It comes with 20+ well-trained models for different application scenarios and can be used directly after installation. 【基于 PyTorch/MXNet 的中文/英文 OCR Python 包。】
+
+*   [JeffLIrion/adb\_shell](https://github.com/JeffLIrion/adb_shell) - A Python implementation of ADB with shell and FileSync functionality.
+
+*   [confident-ai/deepeval](https://github.com/confident-ai/deepeval) - The LLM Evaluation Framework
+
+*   [h5py/h5py](https://github.com/h5py/h5py) - HDF5 for Python -- The h5py package is a Pythonic interface to the HDF5 binary data format.
+
+*   [luismartingarcia/protocol](https://github.com/luismartingarcia/protocol) - An ASCII Header Generator for Network Protocols
+
+*   [mistralai/mistral-finetune](https://github.com/mistralai/mistral-finetune) -
+
+*   [wzdnzd/aggregator](https://github.com/wzdnzd/aggregator) - One-stop Proxies Crawling and Aggregation Platform
+
+*   [vietnh1009/ASCII-generator](https://github.com/vietnh1009/ASCII-generator) - ASCII generator (image to text, image to image, video to video)
+
+*   [qd-today/qd](https://github.com/qd-today/qd) - QD \[v20240210] —— HTTP请求定时任务自动执行框架 base on HAR Editor and Tornado Server
+
+*   [zhenxun-org/zhenxun\_bot](https://github.com/zhenxun-org/zhenxun_bot) - 基于 Nonebot2 开发，实现多平台适配和多Bot管理的，非常可爱的绪山真寻Bot
+
+*   [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
+
+*   [Yiyiyimu/QQ-History-Backup](https://github.com/Yiyiyimu/QQ-History-Backup) - QQ聊天记录备份导出，支持无密钥导出，图片导出。无需编译有GUI界面。Backup Chating History of Instant Messaging QQ.
+
+*   [xxh/xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh. Xonsh shell, fish, zsh, osquery and so on.
+
+*   [Mzdyl/LiteLoaderQQNT\_Install](https://github.com/Mzdyl/LiteLoaderQQNT_Install) - 针对 LiteLoaderQQNT 的安装脚本
+
+*   [NinZeige/HIT-autologin](https://github.com/NinZeige/HIT-autologin) -
+
+*   [openai/evals](https://github.com/openai/evals) - Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.
+
+*   [maochiyu1111/GP-DeepSpeed](https://github.com/maochiyu1111/GP-DeepSpeed) - graduation project may based on deepspeed
+
+*   [zai-org/GLM-4-Voice](https://github.com/zai-org/GLM-4-Voice) - GLM-4-Voice | 端到端中英语音对话模型
+
+*   [CYandYue/Dentist](https://github.com/CYandYue/Dentist) -
+
+*   [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
+
+*   [AgibotTech/agibot\_x1\_train](https://github.com/AgibotTech/agibot_x1_train) - The reinforcement learning training code for AgiBot X1.
+
+*   [Casxt/SortReference](https://github.com/Casxt/SortReference) - Sort the bibliography by citation order.
+
+*   [openai/human-eval](https://github.com/openai/human-eval) - Code for the paper "Evaluating Large Language Models Trained on Code"
+
+*   [chen310/plugin.video.bili](https://github.com/chen310/plugin.video.bili) - 哔哩哔哩 Kodi 插件
+
+*   [morcoslab/LGL-VAE](https://github.com/morcoslab/LGL-VAE) -
+
+*   [QwenLM/Qwen3](https://github.com/QwenLM/Qwen3) - Qwen3 is the large language model series developed by Qwen team, Alibaba Cloud.
+
+*   [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
+
+*   [microsoft/unilm](https://github.com/microsoft/unilm) - Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities
+
+*   [facebookresearch/nougat](https://github.com/facebookresearch/nougat) - Implementation of Nougat Neural Optical Understanding for Academic Documents
+
+*   [AshkanGanj/LR-Net](https://github.com/AshkanGanj/LR-Net) - LR-Net : A Block-based Convolutional Neural Network for Low Resolution Image Classification.
+
+*   [VanekPetr/flan-t5-text-classifier](https://github.com/VanekPetr/flan-t5-text-classifier) - Fine-tuning of Flan-5T LLM for text classification 🤖 focuses on adapting a state-of-the-art language model to enhance its ability to classify text data.
+
+*   [build-with-groq/g1](https://github.com/build-with-groq/g1) - g1: Using Llama-3.1 70b on Groq to create o1-like reasoning chains
+
+*   [jzbjyb/FLARE](https://github.com/jzbjyb/FLARE) - Forward-Looking Active REtrieval-augmented generation (FLARE)
+
+*   [liunian-harold-li/scotd](https://github.com/liunian-harold-li/scotd) -
+
+*   [gankim/tree-of-clarifications](https://github.com/gankim/tree-of-clarifications) - 🌲 Code for our EMNLP 2023 paper - 🎄 "Tree of Clarifications: Answering Ambiguous Questions with Retrieval-Augmented Large Language Models"
+
+*   [bcmi/Object-Shadow-Generation-Dataset-DESOBAv2](https://github.com/bcmi/Object-Shadow-Generation-Dataset-DESOBAv2) - \[CVPR 2024] The dataset, code, and model for our paper "Shadow Generation for Composite Image Using Diffusion Model", CVPR, 2024.
+
+*   [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache) - Semantic cache for LLMs. Fully integrated with LangChain and llama\_index.
+
+*   [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
+
+*   [abertsch72/unlimiformer](https://github.com/abertsch72/unlimiformer) - Public repo for the NeurIPS 2023 paper "Unlimiformer: Long-Range Transformers with Unlimited Length Input"
+
+*   [OpenMOSS/GAOKAO-MM](https://github.com/OpenMOSS/GAOKAO-MM) - \[ACL'2024 Findings] GAOKAO-MM: A Chinese Human-Level Benchmark for Multimodal Models Evaluation
+
+*   [yunxiaomr/GCRC](https://github.com/yunxiaomr/GCRC) - \[ACL2021] GCRC: A Gaokao Chinese Reading Comprehension dataset for Explainable Evaluation
+
+*   [DAMO-NLP-SG/M3Exam](https://github.com/DAMO-NLP-SG/M3Exam) - Data and code for paper "M3Exam: A Multilingual, Multimodal, Multilevel Benchmark for Examining Large Language Models"
+
+*   [OpenLMLab/GAOKAO-Bench](https://github.com/OpenLMLab/GAOKAO-Bench) - GAOKAO-Bench is an evaluation framework that utilizes GAOKAO questions as a dataset to evaluate large language models.
+
+*   [AILab-CVC/SEED-Bench](https://github.com/AILab-CVC/SEED-Bench) - (CVPR2024)A benchmark for evaluating Multimodal LLMs using multiple-choice questions.
+
+*   [haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA) - \[NeurIPS'23 Oral] Visual Instruction Tuning (LLaVA) built towards GPT-4V level capabilities and beyond.
+
+*   [Callione/LLaVA-MOSS2](https://github.com/Callione/LLaVA-MOSS2) - Modified LLaVA framework for MOSS2, and makes MOSS2 a multimodal model.
+
+*   [Zongzs123/snap-through](https://github.com/Zongzs123/snap-through) - machine learning method to inverse design a snap-through structure
+
+*   [run-llama/llama\_index](https://github.com/run-llama/llama_index) - LlamaIndex is the leading framework for building LLM-powered agents over your data.
+
+*   [ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) - Google Chromium, sans integration with Google
+
+*   [Zeyi-Lin/HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
+
+*   [mikedefrancis/ubuntu-i3](https://github.com/mikedefrancis/ubuntu-i3) - a juicy linux development environment for power users
+
+*   [gmftbyGMFTBY/Copyisallyouneed](https://github.com/gmftbyGMFTBY/Copyisallyouneed) - \[ICLR 2023] Codebase for Copy-Generator model, including an implementation of kNN-LM
+
+*   [bytedance/Portrait-Mode-Video](https://github.com/bytedance/Portrait-Mode-Video) - Video dataset dedicated to portrait-mode video recognition.
+
+*   [truera/trulens](https://github.com/truera/trulens) - Evaluation and Tracking for LLM Experiments and AI Agents
+
+*   [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
+
+*   [shirok1/e5-api-renew-scf](https://github.com/shirok1/e5-api-renew-scf) - 本项目已进入半废弃状态（因为我自己的开发者订阅在2020年12月掉了）所以这里可能只能提供基础技术指导——\[腾讯云函数专用]通过重复调用MS Graph API来试图续订Office 365开发者试用
+
+*   [PiotrMachowski/Xiaomi-cloud-tokens-extractor](https://github.com/PiotrMachowski/Xiaomi-cloud-tokens-extractor) - This tool retrieves tokens for all devices connected to Xiaomi cloud and encryption keys for BLE devices.
+
+*   [dwyl/english-words](https://github.com/dwyl/english-words) - :memo: A text file containing 479k English words for all your dictionary/word-based projects e.g: auto-completion / autosuggestion
+
+*   [bottlesdevs/Bottles](https://github.com/bottlesdevs/Bottles) - Run Windows software and games on Linux
+
+*   [userElaina/dream](https://github.com/userElaina/dream) - Welcome to record interesting (or strange) dreams here! 欢迎在这里记录有趣的(或奇怪的)梦境!
+
+*   [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
+
+*   [RQLuo/MixTeX-Latex-OCR](https://github.com/RQLuo/MixTeX-Latex-OCR) - MixTeX multimodal LaTeX, ZhEn, and, Table OCR. It performs efficient CPU-based inference in a local offline on Windows.
+
+*   [Duanyll/CANConv](https://github.com/Duanyll/CANConv) - Content-Adaptive Non-Local Convolution for Remote Sensing Pansharpening
+
+*   [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
+
+*   [lllyasviel/huggingface\_guess](https://github.com/lllyasviel/huggingface_guess) - A simple tool to guess an HuggingFace repo URL from a state dict.
+
+*   [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
+
+*   [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
+
+*   [idank/explainshell](https://github.com/idank/explainshell) - match command-line arguments to their help text
+
+*   [yeliudev/R2-Tuning](https://github.com/yeliudev/R2-Tuning) - 🌀 R2-Tuning: Efficient Image-to-Video Transfer Learning for Video Temporal Grounding (ECCV 2024)
+
+*   [wjun0830/CGDETR](https://github.com/wjun0830/CGDETR) - Official pytorch repository for CG-DETR "Correlation-guided Query-Dependency Calibration in Video Representation Learning for Temporal Grounding"
+
+*   [google-research/scenic](https://github.com/google-research/scenic) - Scenic: A Jax Library for Computer Vision Research and Beyond
+
+*   [Xpra-org/xpra](https://github.com/Xpra-org/xpra) - Persistent remote applications for X11; screen sharing for X11, MacOS and MSWindows.
+
+*   [soimort/you-get](https://github.com/soimort/you-get) - :arrow\_double\_down: Dumb downloader that scrapes the web
+
+*   [apple/ml-mobileclip](https://github.com/apple/ml-mobileclip) - This repository contains the official implementation of the research papers, "MobileCLIP" CVPR 2024 and "MobileCLIP2" TMLR August 2025
+
+*   [MCG-NJU/ViT-TAD](https://github.com/MCG-NJU/ViT-TAD) - \[CVPR 2024] Adapting Short-Term Transformers for Action Detection in Untrimmed Videos
+
+*   [happyharrycn/actionformer\_release](https://github.com/happyharrycn/actionformer_release) - Code release for ActionFormer (ECCV 2022)
+
+*   [yeliudev/nncore](https://github.com/yeliudev/nncore) - 📦 A lightweight machine learning toolkit for researchers, providing common model design & learning functionalities.
+
+*   [jayleicn/moment\_detr](https://github.com/jayleicn/moment_detr) - \[NeurIPS 2021] Moment-DETR code and QVHighlights dataset
+
+*   [facebookresearch/detr](https://github.com/facebookresearch/detr) - End-to-End Object Detection with Transformers
+
+*   [huashengdun/webssh](https://github.com/huashengdun/webssh) - :seedling: Web based ssh client
+
+*   [instantbox/instantbox](https://github.com/instantbox/instantbox) - 📦 Get a clean, ready-to-go Linux box in seconds.
+
+*   [karpathy/build-nanogpt](https://github.com/karpathy/build-nanogpt) - Video+code lecture on building nanoGPT from scratch
+
+*   [Upsonic/Upsonic](https://github.com/Upsonic/Upsonic) - Agent Framework For Fintech and Banks
+
+*   [QQBackup/QQBackupNew](https://github.com/QQBackup/QQBackupNew) - 另一个玩具，预期是（很久以后）做成一个通用的导出工具。PR welcome!（目前用不了，别 star）
+
+*   [jiangyy/gpt-tokens](https://github.com/jiangyy/gpt-tokens) - What are learned in tiktoken?
+
+*   [eunomia-bpf/GPTtrace](https://github.com/eunomia-bpf/GPTtrace) - Generate eBPF programs and tracing with ChatGPT
+
+*   [gaogaotiantian/coredumpy](https://github.com/gaogaotiantian/coredumpy) - coredumpy saves your crash site for post-mortem debugging
+
+*   [BAAI-DCAI/Bunny](https://github.com/BAAI-DCAI/Bunny) - A family of lightweight multimodal models.
+
+*   [fishaudio/Bert-VITS2](https://github.com/fishaudio/Bert-VITS2) - vits2 backbone with multilingual-bert
+
+*   [TheR1D/shell\_gpt](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool powered by AI large language models like GPT-4, will help you accomplish your tasks faster and more efficiently.
+
+*   [ProductivePenguin/Public-Entropy-Demo](https://github.com/ProductivePenguin/Public-Entropy-Demo) -
+
+*   [antoine77340/Youtube-8M-WILLOW](https://github.com/antoine77340/Youtube-8M-WILLOW) - Kaggle Youtube 8M WILLOW approach
+
+*   [facebookresearch/SlowFast](https://github.com/facebookresearch/SlowFast) - PySlowFast: video understanding codebase from FAIR for reproducing state-of-the-art video models.
+
+*   [wkentaro/gdown](https://github.com/wkentaro/gdown) - Google Drive Public File Downloader when Curl/Wget Fails
+
+*   [yjxiong/temporal-segment-networks](https://github.com/yjxiong/temporal-segment-networks) - Code & Models for Temporal Segment Networks (TSN) in ECCV 2016
+
+*   [JarvisUSTC/Differential-Rotated-IoU-Loss](https://github.com/JarvisUSTC/Differential-Rotated-IoU-Loss) - This is an accurate implementation for IoU loss between two rotated polygons. This algorithm is accurate and differential, but there is no support for cuda now. In https://github.com/lilanxiao/Rotated\_IoU, the implementation is fast but inaccua
+
+*   [open-mmlab/mmrotate](https://github.com/open-mmlab/mmrotate) - OpenMMLab Rotated Object Detection Toolbox and Benchmark
+
+*   [facebookresearch/detectron2](https://github.com/facebookresearch/detectron2) - Detectron2 is a platform for object detection, segmentation and other visual recognition tasks.
+
+*   [fossasia/visdom](https://github.com/fossasia/visdom) - A flexible tool for creating, organizing, and sharing visualizations of live, rich data. Supports Torch and Numpy.
+
+*   [openai/grok](https://github.com/openai/grok) -
+
+*   [xyz7772/1999\_Auto](https://github.com/xyz7772/1999_Auto) - 用于1999肉鸽模式，自动化流程，持续优化中
+
+*   [andreas128/RePaint](https://github.com/andreas128/RePaint) - Official PyTorch Code and Models of "RePaint: Inpainting using Denoising Diffusion Probabilistic Models", CVPR 2022
+
+*   [mert-kurttutan/torchview](https://github.com/mert-kurttutan/torchview) - torchview: visualize pytorch models
+
+*   [lllyasviel/ControlNet](https://github.com/lllyasviel/ControlNet) - Let us control diffusion models!
+
+*   [google/magika](https://github.com/google/magika) - Fast and accurate AI powered file content types detection
+
+*   [zalandoresearch/fashion-mnist](https://github.com/zalandoresearch/fashion-mnist) - A MNIST-like fashion product database. Benchmark :point\_down:
+
+*   [xwying/torchshow](https://github.com/xwying/torchshow) - Visualize PyTorch tensors with a single line of code.
+
+*   [lucidrains/denoising-diffusion-pytorch](https://github.com/lucidrains/denoising-diffusion-pytorch) - Implementation of Denoising Diffusion Probabilistic Model in Pytorch
+
+*   [hojonathanho/diffusion](https://github.com/hojonathanho/diffusion) - Denoising Diffusion Probabilistic Models
+
+*   [Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion) - High-Resolution Image Synthesis with Latent Diffusion Models
+
+*   [bcmi/libcom](https://github.com/bcmi/libcom) - Image composition toolbox: everything you want to know about image composition or object insertion
+
+*   [ultrafunkamsterdam/undetected-chromedriver](https://github.com/ultrafunkamsterdam/undetected-chromedriver) - Custom Selenium Chromedriver | Zero-Config | Passes ALL bot mitigation systems (like Distil / Imperva/ Datadadome / CloudFlare IUAM)
+
+*   [google/latexify\_py](https://github.com/google/latexify_py) - A library to generate LaTeX expression from Python code.
+
+*   [kivvi3412/HandWrite](https://github.com/kivvi3412/HandWrite) - 本项目为解决一些大学无用手写作业
+
+*   [why20021008/hand-write](https://github.com/why20021008/hand-write) - 模拟手写效果，节约时间。
+
+*   [Origami404/WiredSetup](https://github.com/Origami404/WiredSetup) - 通过一串奇奇怪怪的软件将位于内网的服务暴露到公网上, 适用于 HITsz 等使用深信服 VPN 的学校.
+
+*   [pypy/pypy](https://github.com/pypy/pypy) - PyPy is a very fast and compliant implementation of the Python language.
+
+*   [cumulo-autumn/StreamDiffusion](https://github.com/cumulo-autumn/StreamDiffusion) - StreamDiffusion: A Pipeline-Level Solution for Real-Time Interactive Generation
+
+*   [leggedrobotics/legged\_gym](https://github.com/leggedrobotics/legged_gym) - Isaac Gym Environments for Legged Robots
+
+*   [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) - The first real AI developer
+
+*   [microsoft/vscode-python-web-wasm](https://github.com/microsoft/vscode-python-web-wasm) - An extension allows to run Python code in a Web browser using WebAssembly technology
+
+*   [kuangliu/pytorch-cifar](https://github.com/kuangliu/pytorch-cifar) - 95.47% on CIFAR10 with PyTorch
+
+*   [LetheSec/HuggingFace-Download-Accelerator](https://github.com/LetheSec/HuggingFace-Download-Accelerator) - 利用HuggingFace的官方下载工具从镜像网站进行高速下载。
+
+*   [gaogaotiantian/viztracer](https://github.com/gaogaotiantian/viztracer) - A debugging and profiling tool that can trace and visualize python code execution
+
+*   [abhinavkashyap/sciwing](https://github.com/abhinavkashyap/sciwing) - SciWING is a modern toolkit for scientific document processing from WING-NUS
+
+*   [zai-org/ChatGLM3](https://github.com/zai-org/ChatGLM3) - ChatGLM3 series: Open Bilingual Chat LLMs | 开源双语对话语言模型
+
+*   [XigaiMax/Calculator1999](https://github.com/XigaiMax/Calculator1999) - 暴雨科算计算器
+
+*   [R1999RC-official/Reverse1999ResonanceCalculator](https://github.com/R1999RC-official/Reverse1999ResonanceCalculator) - 重返未来：1999共鸣方案计算器
+
+*   [QQBackup/qq-win-db-key](https://github.com/QQBackup/qq-win-db-key) - 全平台 QQ 聊天数据库解密
+
+*   [ErikBjare/are-copilots-local-yet](https://github.com/ErikBjare/are-copilots-local-yet) - Are Copilots Local Yet? The frontier of local LLM Copilots for code completion, project generation, shell assistance, and more. Find tools shaping tomorrow's developer experience, today!
+
+*   [danielgross/localpilot](https://github.com/danielgross/localpilot) -
+
+*   [YumisLink/1999-Auto](https://github.com/YumisLink/1999-Auto) - auto
+
+*   [WING-NUS/sciwing](https://github.com/WING-NUS/sciwing) - SciWING is a modern toolkit for scientific document processing from WING-NUS
+
+*   [madmaze/pytesseract](https://github.com/madmaze/pytesseract) - A Python wrapper for Google Tesseract
+
+*   [bilibili/ailab](https://github.com/bilibili/ailab) -
+
+*   [akshitgautam42/AskYourPDF](https://github.com/akshitgautam42/AskYourPDF) - Ask question to your PDF
+
+*   [civitai/sd\_civitai\_extension](https://github.com/civitai/sd_civitai_extension) - All of the Civitai models inside Automatic 1111 Stable Diffusion Web UI
+
+*   [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
+
+*   [jhao104/proxy\_pool](https://github.com/jhao104/proxy_pool) - Python ProxyPool for web spider
+
+*   [hewei2001/campus-canteen-ordering](https://github.com/hewei2001/campus-canteen-ordering) - HITSZ 2021 年秋季学期「数据库设计」课程实验项目，基于 MySQL+Django 实现校园食堂点餐系统。
+
+*   [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) - Focus on prompting and generating
+
+*   [XuehaiPan/nvitop](https://github.com/XuehaiPan/nvitop) - An interactive NVIDIA-GPU process viewer and beyond, the one-stop solution for GPU process management.
+
+*   [spandanb/learndb-py](https://github.com/spandanb/learndb-py) - Learn database internals by implementing it from scratch.
+
+*   [viktor-shcherb/overseer](https://github.com/viktor-shcherb/overseer) - Telegram notifier for GPU availability status.
+
+*   [EricJMarti/inventory-hunter](https://github.com/EricJMarti/inventory-hunter) - ⚡️ Get notified as soon as your next CPU, GPU, or game console is in stock
+
+*   [cyd3r/notify-free-gpu](https://github.com/cyd3r/notify-free-gpu) - A telegram bot that sends you a message when the GPU is in use
+
+*   [dhlee347/pytorchic-bert](https://github.com/dhlee347/pytorchic-bert) - Pytorch Implementation of Google BERT
+
+*   [codertimo/BERT-pytorch](https://github.com/codertimo/BERT-pytorch) - Google AI 2018 BERT pytorch implementation
+
+*   [omnilib/aiosqlite](https://github.com/omnilib/aiosqlite) - asyncio bridge to the standard sqlite3 module
+
+*   [Lxtharia/minegrub-theme](https://github.com/Lxtharia/minegrub-theme) - A Grub Theme in the style of Minecraft!
+
+*   [Jiyao06/GenPose](https://github.com/Jiyao06/GenPose) - \[NeurIPS 2023] GenPose: Generative Category-Level Object Pose Estimation via Diffusion Models
+
+*   [allenai/scicite](https://github.com/allenai/scicite) - Repository for NAACL 2019 paper on Citation Intent prediction
+
+*   [Tencent/QTAF](https://github.com/Tencent/QTAF) - QTA test framework
+
+*   [phfaist/pylatexenc](https://github.com/phfaist/pylatexenc) - Simple LaTeX parser providing latex-to-unicode and unicode-to-latex conversion
+
+*   [tengattack/certbot-dns-aliyun](https://github.com/tengattack/certbot-dns-aliyun) - A certbot dns plugin to obtain certificates using aliyun.
+
+*   [CASIA-LMC-Lab/FastSAM](https://github.com/CASIA-LMC-Lab/FastSAM) - Fast Segment Anything
+
+*   [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - CLI platform to experiment with codegen. Precursor to: https://lovable.dev
+
+*   [vastsa/FileCodeBox](https://github.com/vastsa/FileCodeBox) - 文件快递柜-匿名口令分享文本，文件，像拿快递一样取文件（FileCodeBox - File Express Cabinet - Anonymous Passcode Sharing Text, Files, Like Taking Express Delivery for Files）
+
+*   [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) - Interact with your documents using the power of GPT, 100% privately, no data leaks
+
+*   [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | o4, o3 and deepseek r1, gpt-4.1, gemini 2.5
+
+*   [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
+
+*   [RimoChan/thyrune](https://github.com/RimoChan/thyrune) - 你的纪念碑！
+
+*   [PeterDing/iScript](https://github.com/PeterDing/iScript) - 各种脚本 -- 关于 虾米 xiami.com, 百度网盘 pan.baidu.com, 115网盘 115.com, 网易音乐 music.163.com, 百度音乐 music.baidu.com, 360网盘/云盘 yunpan.cn, 视频解析 flvxz.com, bt torrent ↔ magnet, ed2k 搜索, tumblr 图片下载, unzip
+
+*   [MZhao-ouo/CMDGPT](https://github.com/MZhao-ouo/CMDGPT) - 用自然语言操作命令行 | Interact with the command line using natural language.
+
+*   [OpenFAST/python-toolbox](https://github.com/OpenFAST/python-toolbox) - Suite of Python tools to work with OpenFAST
+
+*   [GaiZhenbiao/ChuanhuChatGPT](https://github.com/GaiZhenbiao/ChuanhuChatGPT) - GUI for ChatGPT API and many LLMs. Supports agents, file-based QA, GPT finetuning and query with web search. All with a neat UI.
+
+*   [zai-org/ChatGLM-6B](https://github.com/zai-org/ChatGLM-6B) - ChatGLM-6B: An Open Bilingual Dialogue Language Model | 开源双语对话语言模型
+
+*   [fauxpilot/fauxpilot](https://github.com/fauxpilot/fauxpilot) - FauxPilot - an open-source alternative to GitHub Copilot server
+
+*   [Vonng/worktime](https://github.com/Vonng/worktime) - Working Time Analysis based on WorkerLivesMatter / WorkingTime
+
+*   [stav121/i3wm-themer](https://github.com/stav121/i3wm-themer) -  🎨 Theme collection manager for i3-wm
+
+*   [Ehco1996/django-sspanel](https://github.com/Ehco1996/django-sspanel) - 用 diango 开发的 shadowsocks 面板
+
+*   [MrAMS/UPC-Submit-Auto](https://github.com/MrAMS/UPC-Submit-Auto) - 自 改 型 · 究 极 自 动 化 填 报 兵 器
+
+*   [PaddlePaddle/PaddleFormers](https://github.com/PaddlePaddle/PaddleFormers) - PaddleFormers is an easy-to-use library of pre-trained large language model zoo based on PaddlePaddle.
+
+*   [userElaina/fAKe-Chinese](https://github.com/userElaina/fAKe-Chinese) - 生成一个现实中不存在的随机 `+86` 身份。
+
+*   [Brx86/bilibili-picpool](https://github.com/Brx86/bilibili-picpool) - 白嫖B站当图床
+
+*   [JxiaoC/animeMusic](https://github.com/JxiaoC/animeMusic) - 一个用于播放动漫音乐（OP, ED, 角色曲等）的二次元轮子
+
+*   [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
+
+*   [Llf0703/Luogu-Difficulty-Tag](https://github.com/Llf0703/Luogu-Difficulty-Tag) - 洛谷难度标签
+
+*   [Brx86/XZZ](https://github.com/Brx86/XZZ) - 小智障,一个利用 go-cqhttp ,快速搭建命令式 QQ 机器人的框架.
+
+*   [GraiaProject/Avilla](https://github.com/GraiaProject/Avilla) - The next-gen framework for IM development. Powered by Graia Project.
+
+*   [hsfzxjy/lambdex](https://github.com/hsfzxjy/lambdex) - Write complicated anonymous functions beyond lambdas in Python.
+
+*   [ArcletProject/Alconna](https://github.com/ArcletProject/Alconna) - A High-performance, Generality, Humane Python CLI Arguments Parser Library. 一个直观的、高性能、泛用的Python命令行参数解析器集成库
+
+*   [userElaina/translator](https://github.com/userElaina/translator) - 强烈谴责某二次元公司用 japanglish 变量名
+
+*   [ultralytics/yolov5](https://github.com/ultralytics/yolov5) - YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite
+
+*   [harrischristiansen/generals-bot](https://github.com/harrischristiansen/generals-bot) - Automated Client for generals.io
+
+*   [GraiaProject/Ariadne](https://github.com/GraiaProject/Ariadne) - 一个优雅且完备的 Python QQ 自动化框架，基于 Mirai API HTTP v2。    Powered by Graia Project.
+
+*   [Samueli924/chaoxing](https://github.com/Samueli924/chaoxing) - 超星学习通/超星尔雅/泛雅超星全自动无人值守完成任务点
+
+*   [GraiaProject/Application](https://github.com/GraiaProject/Application) - 一个设计精巧, 协议实现完备的, 基于 mirai-api-http 的即时聊天软件自动化框架.
+
+*   [tensorlayer/text-antispam](https://github.com/tensorlayer/text-antispam) - 商用级垃圾文本分类器
+
+*   [ht0Ruial/Jiyu\_udp\_attack](https://github.com/ht0Ruial/Jiyu_udp_attack) - 极域电子教室数据包(udp)重放攻击脚本
+
+*   [Megvii-BaseDetection/YOLOX](https://github.com/Megvii-BaseDetection/YOLOX) - YOLOX is a high-performance anchor-free YOLO, exceeding yolov3~v5 with MegEngine, ONNX, TensorRT, ncnn, and OpenVINO supported. Documentation: https://yolox.readthedocs.io/
+
+*   [Ice9Coffee/HoshinoBot](https://github.com/Ice9Coffee/HoshinoBot) - A qqbot for Princess Connect Re:Dive (and other usage :)
+
+*   [NKID00/moegirlpedia-category-search](https://github.com/NKID00/moegirlpedia-category-search) - 萌娘百科分类搜索工具　「黑发蓝瞳双马尾有呆毛又是黑客的人物一共有哪些？」
+
+*   [memset0/memsoti](https://github.com/memset0/memsoti) - 如果能光明正大用好轮子，没人会想写一个破轮子
+
+*   [ShiroDoMain/ATRI-qqbot](https://github.com/ShiroDoMain/ATRI-qqbot) - 一个高性能的qqbot
 
 ## Go
 
@@ -741,482 +1219,6 @@
 
 *   [DeviceFarmer/minitouch](https://github.com/DeviceFarmer/minitouch) - Minimal multitouch event producer for Android.
 
-## Python
-
-*   [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
-
-*   [open-compass/VLMEvalKit](https://github.com/open-compass/VLMEvalKit) - Open-source evaluation toolkit of large multi-modality models (LMMs), support 220+ LMMs, 80+ benchmarks
-
-*   [microsoft/debugpy](https://github.com/microsoft/debugpy) - An implementation of the Debug Adapter Protocol for Python
-
-*   [stepfun-ai/Step1X-Edit](https://github.com/stepfun-ai/Step1X-Edit) - A SOTA open-source image editing model, which aims to provide comparable performance against the closed-source models like GPT-4o and Gemini 2 Flash.
-
-*   [huchiyv/thefuckAiRule](https://github.com/huchiyv/thefuckAiRule) -
-
-*   [EvolvingLMMs-Lab/lmms-eval](https://github.com/EvolvingLMMs-Lab/lmms-eval) - One-for-All Multimodal Evaluation Toolkit Across Text, Image, Video, and Audio Tasks
-
-*   [ljw1004/mini\_agent](https://github.com/ljw1004/mini_agent) - A mini AI agent CLI, similar to Claude Code and Gemini CLI
-
-*   [zai-org/GLM-V](https://github.com/zai-org/GLM-V) - GLM-4.5V and GLM-4.1V-Thinking: Towards Versatile Multimodal Reasoning with Scalable Reinforcement Learning
-
-*   [opendatalab/MinerU](https://github.com/opendatalab/MinerU) - Transforms complex documents like PDFs into LLM-ready markdown/JSON for your Agentic workflows.
-
-*   [dpyyds/DPbot](https://github.com/dpyyds/DPbot) - DPbot是一个基于Python的机器人框架，支持插件化开发，提供了丰富的功能接口，可基于此框架拓展为群活跃助手、台账机器人、定时推送机器人、ai画图机器人、智能客服、返利机器人。
-
-*   [pwxcoo/chinese-xinhua](https://github.com/pwxcoo/chinese-xinhua) - :orange\_book: 中华新华字典数据库。包括歇后语，成语，词语，汉字。
-
-*   [openai/gpt-oss](https://github.com/openai/gpt-oss) - gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI
-
-*   [Aruelius/wenshushu](https://github.com/Aruelius/wenshushu) - 基于 https://www.wenshushu.cn （文叔叔） 上传与下载文件的 Python 脚本
-
-*   [modelscope/ms-swift](https://github.com/modelscope/ms-swift) - Use PEFT or Full-parameter to CPT/SFT/DPO/GRPO 500+ LLMs (Qwen3, Qwen3-MoE, Llama4, GLM4.5, InternLM3, DeepSeek-R1, ...) and 200+ MLLMs (Qwen3-VL, Qwen3-Omni, InternVL3.5, Ovis2.5, Llava, GLM4v, Phi4, ...) (AAAI 2025).
-
-*   [gaogaotiantian/dowhen](https://github.com/gaogaotiantian/dowhen) - An intuitive and low-overhead instrumentation tool for Python
-
-*   [voicepaw/so-vits-svc-fork](https://github.com/voicepaw/so-vits-svc-fork) - so-vits-svc fork with realtime support, improved interface and more features.
-
-*   [JiuTian-VL/MoME](https://github.com/JiuTian-VL/MoME) - \[NeurIPS 2024] MoME: Mixture of Multimodal Experts for Generalist Multimodal Large Language Models
-
-*   [maple-research-lab/SLOT](https://github.com/maple-research-lab/SLOT) -
-
-*   [ruixin31/Spurious\_Rewards](https://github.com/ruixin31/Spurious_Rewards) -
-
-*   [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - DeerFlow is a community-driven Deep Research framework, combining language models with tools like web search, crawling, and Python execution, while contributing back to the open-source community.
-
-*   [finaldie/auto-news](https://github.com/finaldie/auto-news) - A personal news aggregator to pull information from multi-sources + LLM (ChatGPT/Gemini/Ollama via LangChain) to help us reading efficiently with less noises, the sources including: Tweets, RSS, YouTube, Web Articles, Reddit, and personal Journal notes.
-
-*   [ByteDance-Seed/Bagel](https://github.com/ByteDance-Seed/Bagel) - Open-source unified multimodal model
-
-*   [InternLM/InternBootcamp](https://github.com/InternLM/InternBootcamp) -
-
-*   [yuchenlin/rebiber](https://github.com/yuchenlin/rebiber) - A simple tool to update bib entries with their official information (e.g., DBLP or the ACL anthology).
-
-*   [toslali-ibm/trl](https://github.com/toslali-ibm/trl) - Train transformer language models with reinforcement learning.
-
-*   [volcengine/verl](https://github.com/volcengine/verl) - verl: Volcano Engine Reinforcement Learning for LLMs
-
-*   [shibing624/open-o1](https://github.com/shibing624/open-o1) - open-o1: Using GPT-4o with CoT to Create o1-like Reasoning Chains
-
-*   [camel-ai/loong](https://github.com/camel-ai/loong) - 🐉 Loong: Synthesize Long CoTs at Scale through Verifiers.
-
-*   [wonderNefelibata/Awesome-LRM-Safety](https://github.com/wonderNefelibata/Awesome-LRM-Safety) - Awesome Large Reasoning Model(LRM) Safety.This repository is used to collect security-related research on large reasoning models such as DeepSeek-R1 and OpenAI o1, which are currently very popular.
-
-*   [camel-ai/camel](https://github.com/camel-ai/camel) - 🐫 CAMEL: The first and the best multi-agent framework. Finding the Scaling Law of Agents. https://www.camel-ai.org
-
-*   [camel-ai/owl](https://github.com/camel-ai/owl) - 🦉 OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation
-
-*   [FoundationAgents/OpenManus](https://github.com/FoundationAgents/OpenManus) - No fortress, purely open ground.  OpenManus is Coming.
-
-*   [OpenGVLab/InternVL](https://github.com/OpenGVLab/InternVL) - \[CVPR 2024 Oral] InternVL Family: A Pioneering Open-Source Alternative to GPT-4o.  接近GPT-4o表现的开源多模态对话模型
-
-*   [kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers) - A Flexible Framework for Experiencing Cutting-edge LLM Inference Optimizations
-
-*   [houtianze/bypy](https://github.com/houtianze/bypy) - Python client for Baidu Yun (Personal Cloud Storage) 百度云/百度网盘Python客户端
-
-*   [linux-do/lottery](https://github.com/linux-do/lottery) - LINUX DO Lottery
-
-*   [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: Code Less, Make More
-
-*   [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) -
-
-*   [guofei9987/blind\_watermark](https://github.com/guofei9987/blind_watermark) - Blind\&Invisible Watermark ，图片盲水印，提取水印无须原图！
-
-*   [YiyanXu/DiFashion](https://github.com/YiyanXu/DiFashion) - Diffusion Models for Generative Outfit Recommendation
-
-*   [mofeng-git/One-KVM](https://github.com/mofeng-git/One-KVM) - One-KVM 是基于廉价计算机硬件和 PiKVM 软件二次开发的 BIOS 级远程控制项目。
-
-*   [v1k45/python-qBittorrent](https://github.com/v1k45/python-qBittorrent) - Python wrapper for qBittorrent Web API (for versions above v3.1.x)
-
-*   [breezedeus/CnOCR](https://github.com/breezedeus/CnOCR) - CnOCR: Awesome Chinese/English OCR Python toolkits based on PyTorch. It comes with 20+ well-trained models for different application scenarios and can be used directly after installation. 【基于 PyTorch/MXNet 的中文/英文 OCR Python 包。】
-
-*   [JeffLIrion/adb\_shell](https://github.com/JeffLIrion/adb_shell) - A Python implementation of ADB with shell and FileSync functionality.
-
-*   [confident-ai/deepeval](https://github.com/confident-ai/deepeval) - The LLM Evaluation Framework
-
-*   [h5py/h5py](https://github.com/h5py/h5py) - HDF5 for Python -- The h5py package is a Pythonic interface to the HDF5 binary data format.
-
-*   [luismartingarcia/protocol](https://github.com/luismartingarcia/protocol) - An ASCII Header Generator for Network Protocols
-
-*   [mistralai/mistral-finetune](https://github.com/mistralai/mistral-finetune) -
-
-*   [wzdnzd/aggregator](https://github.com/wzdnzd/aggregator) - One-stop Proxies Crawling and Aggregation Platform
-
-*   [vietnh1009/ASCII-generator](https://github.com/vietnh1009/ASCII-generator) - ASCII generator (image to text, image to image, video to video)
-
-*   [qd-today/qd](https://github.com/qd-today/qd) - QD \[v20240210] —— HTTP请求定时任务自动执行框架 base on HAR Editor and Tornado Server
-
-*   [zhenxun-org/zhenxun\_bot](https://github.com/zhenxun-org/zhenxun_bot) - 基于 Nonebot2 开发，实现多平台适配和多Bot管理的，非常可爱的绪山真寻Bot
-
-*   [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
-
-*   [Yiyiyimu/QQ-History-Backup](https://github.com/Yiyiyimu/QQ-History-Backup) - QQ聊天记录备份导出，支持无密钥导出，图片导出。无需编译有GUI界面。Backup Chating History of Instant Messaging QQ.
-
-*   [xxh/xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh. Xonsh shell, fish, zsh, osquery and so on.
-
-*   [Mzdyl/LiteLoaderQQNT\_Install](https://github.com/Mzdyl/LiteLoaderQQNT_Install) - 针对 LiteLoaderQQNT 的安装脚本
-
-*   [NinZeige/HIT-autologin](https://github.com/NinZeige/HIT-autologin) -
-
-*   [openai/evals](https://github.com/openai/evals) - Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.
-
-*   [maochiyu1111/GP-DeepSpeed](https://github.com/maochiyu1111/GP-DeepSpeed) - graduation project may based on deepspeed
-
-*   [zai-org/GLM-4-Voice](https://github.com/zai-org/GLM-4-Voice) - GLM-4-Voice | 端到端中英语音对话模型
-
-*   [CYandYue/Dentist](https://github.com/CYandYue/Dentist) -
-
-*   [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
-
-*   [AgibotTech/agibot\_x1\_train](https://github.com/AgibotTech/agibot_x1_train) - The reinforcement learning training code for AgiBot X1.
-
-*   [Casxt/SortReference](https://github.com/Casxt/SortReference) - Sort the bibliography by citation order.
-
-*   [openai/human-eval](https://github.com/openai/human-eval) - Code for the paper "Evaluating Large Language Models Trained on Code"
-
-*   [chen310/plugin.video.bili](https://github.com/chen310/plugin.video.bili) - 哔哩哔哩 Kodi 插件
-
-*   [morcoslab/LGL-VAE](https://github.com/morcoslab/LGL-VAE) -
-
-*   [QwenLM/Qwen3](https://github.com/QwenLM/Qwen3) - Qwen3 is the large language model series developed by Qwen team, Alibaba Cloud.
-
-*   [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
-
-*   [microsoft/unilm](https://github.com/microsoft/unilm) - Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities
-
-*   [facebookresearch/nougat](https://github.com/facebookresearch/nougat) - Implementation of Nougat Neural Optical Understanding for Academic Documents
-
-*   [AshkanGanj/LR-Net](https://github.com/AshkanGanj/LR-Net) - LR-Net : A Block-based Convolutional Neural Network for Low Resolution Image Classification.
-
-*   [VanekPetr/flan-t5-text-classifier](https://github.com/VanekPetr/flan-t5-text-classifier) - Fine-tuning of Flan-5T LLM for text classification 🤖 focuses on adapting a state-of-the-art language model to enhance its ability to classify text data.
-
-*   [build-with-groq/g1](https://github.com/build-with-groq/g1) - g1: Using Llama-3.1 70b on Groq to create o1-like reasoning chains
-
-*   [jzbjyb/FLARE](https://github.com/jzbjyb/FLARE) - Forward-Looking Active REtrieval-augmented generation (FLARE)
-
-*   [liunian-harold-li/scotd](https://github.com/liunian-harold-li/scotd) -
-
-*   [gankim/tree-of-clarifications](https://github.com/gankim/tree-of-clarifications) - 🌲 Code for our EMNLP 2023 paper - 🎄 "Tree of Clarifications: Answering Ambiguous Questions with Retrieval-Augmented Large Language Models"
-
-*   [bcmi/Object-Shadow-Generation-Dataset-DESOBAv2](https://github.com/bcmi/Object-Shadow-Generation-Dataset-DESOBAv2) - \[CVPR 2024] The dataset, code, and model for our paper "Shadow Generation for Composite Image Using Diffusion Model", CVPR, 2024.
-
-*   [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache) - Semantic cache for LLMs. Fully integrated with LangChain and llama\_index.
-
-*   [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
-
-*   [abertsch72/unlimiformer](https://github.com/abertsch72/unlimiformer) - Public repo for the NeurIPS 2023 paper "Unlimiformer: Long-Range Transformers with Unlimited Length Input"
-
-*   [OpenMOSS/GAOKAO-MM](https://github.com/OpenMOSS/GAOKAO-MM) - \[ACL'2024 Findings] GAOKAO-MM: A Chinese Human-Level Benchmark for Multimodal Models Evaluation
-
-*   [yunxiaomr/GCRC](https://github.com/yunxiaomr/GCRC) - \[ACL2021] GCRC: A Gaokao Chinese Reading Comprehension dataset for Explainable Evaluation
-
-*   [DAMO-NLP-SG/M3Exam](https://github.com/DAMO-NLP-SG/M3Exam) - Data and code for paper "M3Exam: A Multilingual, Multimodal, Multilevel Benchmark for Examining Large Language Models"
-
-*   [OpenLMLab/GAOKAO-Bench](https://github.com/OpenLMLab/GAOKAO-Bench) - GAOKAO-Bench is an evaluation framework that utilizes GAOKAO questions as a dataset to evaluate large language models.
-
-*   [AILab-CVC/SEED-Bench](https://github.com/AILab-CVC/SEED-Bench) - (CVPR2024)A benchmark for evaluating Multimodal LLMs using multiple-choice questions.
-
-*   [haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA) - \[NeurIPS'23 Oral] Visual Instruction Tuning (LLaVA) built towards GPT-4V level capabilities and beyond.
-
-*   [Callione/LLaVA-MOSS2](https://github.com/Callione/LLaVA-MOSS2) - Modified LLaVA framework for MOSS2, and makes MOSS2 a multimodal model.
-
-*   [Zongzs123/snap-through](https://github.com/Zongzs123/snap-through) - machine learning method to inverse design a snap-through structure
-
-*   [run-llama/llama\_index](https://github.com/run-llama/llama_index) - LlamaIndex is the leading framework for building LLM-powered agents over your data.
-
-*   [ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) - Google Chromium, sans integration with Google
-
-*   [Zeyi-Lin/HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
-
-*   [mikedefrancis/ubuntu-i3](https://github.com/mikedefrancis/ubuntu-i3) - a juicy linux development environment for power users
-
-*   [gmftbyGMFTBY/Copyisallyouneed](https://github.com/gmftbyGMFTBY/Copyisallyouneed) - \[ICLR 2023] Codebase for Copy-Generator model, including an implementation of kNN-LM
-
-*   [bytedance/Portrait-Mode-Video](https://github.com/bytedance/Portrait-Mode-Video) - Video dataset dedicated to portrait-mode video recognition.
-
-*   [truera/trulens](https://github.com/truera/trulens) - Evaluation and Tracking for LLM Experiments and AI Agents
-
-*   [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
-
-*   [shirok1/e5-api-renew-scf](https://github.com/shirok1/e5-api-renew-scf) - 本项目已进入半废弃状态（因为我自己的开发者订阅在2020年12月掉了）所以这里可能只能提供基础技术指导——\[腾讯云函数专用]通过重复调用MS Graph API来试图续订Office 365开发者试用
-
-*   [PiotrMachowski/Xiaomi-cloud-tokens-extractor](https://github.com/PiotrMachowski/Xiaomi-cloud-tokens-extractor) - This tool retrieves tokens for all devices connected to Xiaomi cloud and encryption keys for BLE devices.
-
-*   [dwyl/english-words](https://github.com/dwyl/english-words) - :memo: A text file containing 479k English words for all your dictionary/word-based projects e.g: auto-completion / autosuggestion
-
-*   [bottlesdevs/Bottles](https://github.com/bottlesdevs/Bottles) - Run Windows software and games on Linux
-
-*   [userElaina/dream](https://github.com/userElaina/dream) - Welcome to record interesting (or strange) dreams here! 欢迎在这里记录有趣的(或奇怪的)梦境!
-
-*   [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
-
-*   [RQLuo/MixTeX-Latex-OCR](https://github.com/RQLuo/MixTeX-Latex-OCR) - MixTeX multimodal LaTeX, ZhEn, and, Table OCR. It performs efficient CPU-based inference in a local offline on Windows.
-
-*   [Duanyll/CANConv](https://github.com/Duanyll/CANConv) - Content-Adaptive Non-Local Convolution for Remote Sensing Pansharpening
-
-*   [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
-
-*   [lllyasviel/huggingface\_guess](https://github.com/lllyasviel/huggingface_guess) - A simple tool to guess an HuggingFace repo URL from a state dict.
-
-*   [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
-
-*   [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
-
-*   [idank/explainshell](https://github.com/idank/explainshell) - match command-line arguments to their help text
-
-*   [yeliudev/R2-Tuning](https://github.com/yeliudev/R2-Tuning) - 🌀 R2-Tuning: Efficient Image-to-Video Transfer Learning for Video Temporal Grounding (ECCV 2024)
-
-*   [wjun0830/CGDETR](https://github.com/wjun0830/CGDETR) - Official pytorch repository for CG-DETR "Correlation-guided Query-Dependency Calibration in Video Representation Learning for Temporal Grounding"
-
-*   [google-research/scenic](https://github.com/google-research/scenic) - Scenic: A Jax Library for Computer Vision Research and Beyond
-
-*   [Xpra-org/xpra](https://github.com/Xpra-org/xpra) - Persistent remote applications for X11; screen sharing for X11, MacOS and MSWindows.
-
-*   [soimort/you-get](https://github.com/soimort/you-get) - :arrow\_double\_down: Dumb downloader that scrapes the web
-
-*   [apple/ml-mobileclip](https://github.com/apple/ml-mobileclip) - This repository contains the official implementation of the research papers, "MobileCLIP" CVPR 2024 and "MobileCLIP2" TMLR August 2025
-
-*   [MCG-NJU/ViT-TAD](https://github.com/MCG-NJU/ViT-TAD) - \[CVPR 2024] Adapting Short-Term Transformers for Action Detection in Untrimmed Videos
-
-*   [happyharrycn/actionformer\_release](https://github.com/happyharrycn/actionformer_release) - Code release for ActionFormer (ECCV 2022)
-
-*   [yeliudev/nncore](https://github.com/yeliudev/nncore) - 📦 A lightweight machine learning toolkit for researchers, providing common model design & learning functionalities.
-
-*   [jayleicn/moment\_detr](https://github.com/jayleicn/moment_detr) - \[NeurIPS 2021] Moment-DETR code and QVHighlights dataset
-
-*   [facebookresearch/detr](https://github.com/facebookresearch/detr) - End-to-End Object Detection with Transformers
-
-*   [huashengdun/webssh](https://github.com/huashengdun/webssh) - :seedling: Web based ssh client
-
-*   [instantbox/instantbox](https://github.com/instantbox/instantbox) - 📦 Get a clean, ready-to-go Linux box in seconds.
-
-*   [karpathy/build-nanogpt](https://github.com/karpathy/build-nanogpt) - Video+code lecture on building nanoGPT from scratch
-
-*   [Upsonic/Upsonic](https://github.com/Upsonic/Upsonic) - Agent Framework For Fintech and Banks
-
-*   [QQBackup/QQBackupNew](https://github.com/QQBackup/QQBackupNew) - 另一个玩具，预期是（很久以后）做成一个通用的导出工具。PR welcome!（目前用不了，别 star）
-
-*   [jiangyy/gpt-tokens](https://github.com/jiangyy/gpt-tokens) - What are learned in tiktoken?
-
-*   [eunomia-bpf/GPTtrace](https://github.com/eunomia-bpf/GPTtrace) - Generate eBPF programs and tracing with ChatGPT
-
-*   [gaogaotiantian/coredumpy](https://github.com/gaogaotiantian/coredumpy) - coredumpy saves your crash site for post-mortem debugging
-
-*   [BAAI-DCAI/Bunny](https://github.com/BAAI-DCAI/Bunny) - A family of lightweight multimodal models.
-
-*   [fishaudio/Bert-VITS2](https://github.com/fishaudio/Bert-VITS2) - vits2 backbone with multilingual-bert
-
-*   [TheR1D/shell\_gpt](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool powered by AI large language models like GPT-4, will help you accomplish your tasks faster and more efficiently.
-
-*   [ProductivePenguin/Public-Entropy-Demo](https://github.com/ProductivePenguin/Public-Entropy-Demo) -
-
-*   [antoine77340/Youtube-8M-WILLOW](https://github.com/antoine77340/Youtube-8M-WILLOW) - Kaggle Youtube 8M WILLOW approach
-
-*   [facebookresearch/SlowFast](https://github.com/facebookresearch/SlowFast) - PySlowFast: video understanding codebase from FAIR for reproducing state-of-the-art video models.
-
-*   [wkentaro/gdown](https://github.com/wkentaro/gdown) - Google Drive Public File Downloader when Curl/Wget Fails
-
-*   [yjxiong/temporal-segment-networks](https://github.com/yjxiong/temporal-segment-networks) - Code & Models for Temporal Segment Networks (TSN) in ECCV 2016
-
-*   [JarvisUSTC/Differential-Rotated-IoU-Loss](https://github.com/JarvisUSTC/Differential-Rotated-IoU-Loss) - This is an accurate implementation for IoU loss between two rotated polygons. This algorithm is accurate and differential, but there is no support for cuda now. In https://github.com/lilanxiao/Rotated\_IoU, the implementation is fast but inaccua
-
-*   [open-mmlab/mmrotate](https://github.com/open-mmlab/mmrotate) - OpenMMLab Rotated Object Detection Toolbox and Benchmark
-
-*   [facebookresearch/detectron2](https://github.com/facebookresearch/detectron2) - Detectron2 is a platform for object detection, segmentation and other visual recognition tasks.
-
-*   [fossasia/visdom](https://github.com/fossasia/visdom) - A flexible tool for creating, organizing, and sharing visualizations of live, rich data. Supports Torch and Numpy.
-
-*   [openai/grok](https://github.com/openai/grok) -
-
-*   [xyz7772/1999\_Auto](https://github.com/xyz7772/1999_Auto) - 用于1999肉鸽模式，自动化流程，持续优化中
-
-*   [andreas128/RePaint](https://github.com/andreas128/RePaint) - Official PyTorch Code and Models of "RePaint: Inpainting using Denoising Diffusion Probabilistic Models", CVPR 2022
-
-*   [mert-kurttutan/torchview](https://github.com/mert-kurttutan/torchview) - torchview: visualize pytorch models
-
-*   [lllyasviel/ControlNet](https://github.com/lllyasviel/ControlNet) - Let us control diffusion models!
-
-*   [google/magika](https://github.com/google/magika) - Fast and accurate AI powered file content types detection
-
-*   [zalandoresearch/fashion-mnist](https://github.com/zalandoresearch/fashion-mnist) - A MNIST-like fashion product database. Benchmark :point\_down:
-
-*   [xwying/torchshow](https://github.com/xwying/torchshow) - Visualize PyTorch tensors with a single line of code.
-
-*   [lucidrains/denoising-diffusion-pytorch](https://github.com/lucidrains/denoising-diffusion-pytorch) - Implementation of Denoising Diffusion Probabilistic Model in Pytorch
-
-*   [hojonathanho/diffusion](https://github.com/hojonathanho/diffusion) - Denoising Diffusion Probabilistic Models
-
-*   [Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion) - High-Resolution Image Synthesis with Latent Diffusion Models
-
-*   [bcmi/libcom](https://github.com/bcmi/libcom) - Image composition toolbox: everything you want to know about image composition or object insertion
-
-*   [ultrafunkamsterdam/undetected-chromedriver](https://github.com/ultrafunkamsterdam/undetected-chromedriver) - Custom Selenium Chromedriver | Zero-Config | Passes ALL bot mitigation systems (like Distil / Imperva/ Datadadome / CloudFlare IUAM)
-
-*   [google/latexify\_py](https://github.com/google/latexify_py) - A library to generate LaTeX expression from Python code.
-
-*   [kivvi3412/HandWrite](https://github.com/kivvi3412/HandWrite) - 本项目为解决一些大学无用手写作业
-
-*   [why20021008/hand-write](https://github.com/why20021008/hand-write) - 模拟手写效果，节约时间。
-
-*   [Origami404/WiredSetup](https://github.com/Origami404/WiredSetup) - 通过一串奇奇怪怪的软件将位于内网的服务暴露到公网上, 适用于 HITsz 等使用深信服 VPN 的学校.
-
-*   [pypy/pypy](https://github.com/pypy/pypy) - PyPy is a very fast and compliant implementation of the Python language.
-
-*   [cumulo-autumn/StreamDiffusion](https://github.com/cumulo-autumn/StreamDiffusion) - StreamDiffusion: A Pipeline-Level Solution for Real-Time Interactive Generation
-
-*   [leggedrobotics/legged\_gym](https://github.com/leggedrobotics/legged_gym) - Isaac Gym Environments for Legged Robots
-
-*   [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) - The first real AI developer
-
-*   [microsoft/vscode-python-web-wasm](https://github.com/microsoft/vscode-python-web-wasm) - An extension allows to run Python code in a Web browser using WebAssembly technology
-
-*   [kuangliu/pytorch-cifar](https://github.com/kuangliu/pytorch-cifar) - 95.47% on CIFAR10 with PyTorch
-
-*   [LetheSec/HuggingFace-Download-Accelerator](https://github.com/LetheSec/HuggingFace-Download-Accelerator) - 利用HuggingFace的官方下载工具从镜像网站进行高速下载。
-
-*   [gaogaotiantian/viztracer](https://github.com/gaogaotiantian/viztracer) - A debugging and profiling tool that can trace and visualize python code execution
-
-*   [abhinavkashyap/sciwing](https://github.com/abhinavkashyap/sciwing) - SciWING is a modern toolkit for scientific document processing from WING-NUS
-
-*   [zai-org/ChatGLM3](https://github.com/zai-org/ChatGLM3) - ChatGLM3 series: Open Bilingual Chat LLMs | 开源双语对话语言模型
-
-*   [XigaiMax/Calculator1999](https://github.com/XigaiMax/Calculator1999) - 暴雨科算计算器
-
-*   [R1999RC-official/Reverse1999ResonanceCalculator](https://github.com/R1999RC-official/Reverse1999ResonanceCalculator) - 重返未来：1999共鸣方案计算器
-
-*   [QQBackup/qq-win-db-key](https://github.com/QQBackup/qq-win-db-key) - 全平台 QQ 聊天数据库解密
-
-*   [ErikBjare/are-copilots-local-yet](https://github.com/ErikBjare/are-copilots-local-yet) - Are Copilots Local Yet? The frontier of local LLM Copilots for code completion, project generation, shell assistance, and more. Find tools shaping tomorrow's developer experience, today!
-
-*   [danielgross/localpilot](https://github.com/danielgross/localpilot) -
-
-*   [YumisLink/1999-Auto](https://github.com/YumisLink/1999-Auto) - auto
-
-*   [WING-NUS/sciwing](https://github.com/WING-NUS/sciwing) - SciWING is a modern toolkit for scientific document processing from WING-NUS
-
-*   [madmaze/pytesseract](https://github.com/madmaze/pytesseract) - A Python wrapper for Google Tesseract
-
-*   [bilibili/ailab](https://github.com/bilibili/ailab) -
-
-*   [akshitgautam42/AskYourPDF](https://github.com/akshitgautam42/AskYourPDF) - Ask question to your PDF
-
-*   [civitai/sd\_civitai\_extension](https://github.com/civitai/sd_civitai_extension) - All of the Civitai models inside Automatic 1111 Stable Diffusion Web UI
-
-*   [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
-
-*   [jhao104/proxy\_pool](https://github.com/jhao104/proxy_pool) - Python ProxyPool for web spider
-
-*   [hewei2001/campus-canteen-ordering](https://github.com/hewei2001/campus-canteen-ordering) - HITSZ 2021 年秋季学期「数据库设计」课程实验项目，基于 MySQL+Django 实现校园食堂点餐系统。
-
-*   [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) - Focus on prompting and generating
-
-*   [XuehaiPan/nvitop](https://github.com/XuehaiPan/nvitop) - An interactive NVIDIA-GPU process viewer and beyond, the one-stop solution for GPU process management.
-
-*   [spandanb/learndb-py](https://github.com/spandanb/learndb-py) - Learn database internals by implementing it from scratch.
-
-*   [viktor-shcherb/overseer](https://github.com/viktor-shcherb/overseer) - Telegram notifier for GPU availability status.
-
-*   [EricJMarti/inventory-hunter](https://github.com/EricJMarti/inventory-hunter) - ⚡️ Get notified as soon as your next CPU, GPU, or game console is in stock
-
-*   [cyd3r/notify-free-gpu](https://github.com/cyd3r/notify-free-gpu) - A telegram bot that sends you a message when the GPU is in use
-
-*   [dhlee347/pytorchic-bert](https://github.com/dhlee347/pytorchic-bert) - Pytorch Implementation of Google BERT
-
-*   [codertimo/BERT-pytorch](https://github.com/codertimo/BERT-pytorch) - Google AI 2018 BERT pytorch implementation
-
-*   [omnilib/aiosqlite](https://github.com/omnilib/aiosqlite) - asyncio bridge to the standard sqlite3 module
-
-*   [Lxtharia/minegrub-theme](https://github.com/Lxtharia/minegrub-theme) - A Grub Theme in the style of Minecraft!
-
-*   [Jiyao06/GenPose](https://github.com/Jiyao06/GenPose) - \[NeurIPS 2023] GenPose: Generative Category-Level Object Pose Estimation via Diffusion Models
-
-*   [allenai/scicite](https://github.com/allenai/scicite) - Repository for NAACL 2019 paper on Citation Intent prediction
-
-*   [Tencent/QTAF](https://github.com/Tencent/QTAF) - QTA test framework
-
-*   [phfaist/pylatexenc](https://github.com/phfaist/pylatexenc) - Simple LaTeX parser providing latex-to-unicode and unicode-to-latex conversion
-
-*   [tengattack/certbot-dns-aliyun](https://github.com/tengattack/certbot-dns-aliyun) - A certbot dns plugin to obtain certificates using aliyun.
-
-*   [CASIA-LMC-Lab/FastSAM](https://github.com/CASIA-LMC-Lab/FastSAM) - Fast Segment Anything
-
-*   [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - CLI platform to experiment with codegen. Precursor to: https://lovable.dev
-
-*   [vastsa/FileCodeBox](https://github.com/vastsa/FileCodeBox) - 文件快递柜-匿名口令分享文本，文件，像拿快递一样取文件（FileCodeBox - File Express Cabinet - Anonymous Passcode Sharing Text, Files, Like Taking Express Delivery for Files）
-
-*   [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) - Interact with your documents using the power of GPT, 100% privately, no data leaks
-
-*   [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | o4, o3 and deepseek r1, gpt-4.1, gemini 2.5
-
-*   [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
-
-*   [RimoChan/thyrune](https://github.com/RimoChan/thyrune) - 你的纪念碑！
-
-*   [PeterDing/iScript](https://github.com/PeterDing/iScript) - 各种脚本 -- 关于 虾米 xiami.com, 百度网盘 pan.baidu.com, 115网盘 115.com, 网易音乐 music.163.com, 百度音乐 music.baidu.com, 360网盘/云盘 yunpan.cn, 视频解析 flvxz.com, bt torrent ↔ magnet, ed2k 搜索, tumblr 图片下载, unzip
-
-*   [MZhao-ouo/CMDGPT](https://github.com/MZhao-ouo/CMDGPT) - 用自然语言操作命令行 | Interact with the command line using natural language.
-
-*   [OpenFAST/python-toolbox](https://github.com/OpenFAST/python-toolbox) - Suite of Python tools to work with OpenFAST
-
-*   [GaiZhenbiao/ChuanhuChatGPT](https://github.com/GaiZhenbiao/ChuanhuChatGPT) - GUI for ChatGPT API and many LLMs. Supports agents, file-based QA, GPT finetuning and query with web search. All with a neat UI.
-
-*   [zai-org/ChatGLM-6B](https://github.com/zai-org/ChatGLM-6B) - ChatGLM-6B: An Open Bilingual Dialogue Language Model | 开源双语对话语言模型
-
-*   [fauxpilot/fauxpilot](https://github.com/fauxpilot/fauxpilot) - FauxPilot - an open-source alternative to GitHub Copilot server
-
-*   [Vonng/worktime](https://github.com/Vonng/worktime) - Working Time Analysis based on WorkerLivesMatter / WorkingTime
-
-*   [stav121/i3wm-themer](https://github.com/stav121/i3wm-themer) -  🎨 Theme collection manager for i3-wm
-
-*   [Ehco1996/django-sspanel](https://github.com/Ehco1996/django-sspanel) - 用 diango 开发的 shadowsocks 面板
-
-*   [MrAMS/UPC-Submit-Auto](https://github.com/MrAMS/UPC-Submit-Auto) - 自 改 型 · 究 极 自 动 化 填 报 兵 器
-
-*   [PaddlePaddle/PaddleFormers](https://github.com/PaddlePaddle/PaddleFormers) - PaddleFormers is an easy-to-use library of pre-trained large language model zoo based on PaddlePaddle.
-
-*   [userElaina/fAKe-Chinese](https://github.com/userElaina/fAKe-Chinese) - 生成一个现实中不存在的随机 `+86` 身份。
-
-*   [Brx86/bilibili-picpool](https://github.com/Brx86/bilibili-picpool) - 白嫖B站当图床
-
-*   [JxiaoC/animeMusic](https://github.com/JxiaoC/animeMusic) - 一个用于播放动漫音乐（OP, ED, 角色曲等）的二次元轮子
-
-*   [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
-
-*   [Llf0703/Luogu-Difficulty-Tag](https://github.com/Llf0703/Luogu-Difficulty-Tag) - 洛谷难度标签
-
-*   [Brx86/XZZ](https://github.com/Brx86/XZZ) - 小智障,一个利用 go-cqhttp ,快速搭建命令式 QQ 机器人的框架.
-
-*   [GraiaProject/Avilla](https://github.com/GraiaProject/Avilla) - The next-gen framework for IM development. Powered by Graia Project.
-
-*   [hsfzxjy/lambdex](https://github.com/hsfzxjy/lambdex) - Write complicated anonymous functions beyond lambdas in Python.
-
-*   [ArcletProject/Alconna](https://github.com/ArcletProject/Alconna) - A High-performance, Generality, Humane Python CLI Arguments Parser Library. 一个直观的、高性能、泛用的Python命令行参数解析器集成库
-
-*   [userElaina/translator](https://github.com/userElaina/translator) - 强烈谴责某二次元公司用 japanglish 变量名
-
-*   [ultralytics/yolov5](https://github.com/ultralytics/yolov5) - YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite
-
-*   [harrischristiansen/generals-bot](https://github.com/harrischristiansen/generals-bot) - Automated Client for generals.io
-
-*   [GraiaProject/Ariadne](https://github.com/GraiaProject/Ariadne) - 一个优雅且完备的 Python QQ 自动化框架，基于 Mirai API HTTP v2。    Powered by Graia Project.
-
-*   [Samueli924/chaoxing](https://github.com/Samueli924/chaoxing) - 超星学习通/超星尔雅/泛雅超星全自动无人值守完成任务点
-
-*   [GraiaProject/Application](https://github.com/GraiaProject/Application) - 一个设计精巧, 协议实现完备的, 基于 mirai-api-http 的即时聊天软件自动化框架.
-
-*   [tensorlayer/text-antispam](https://github.com/tensorlayer/text-antispam) - 商用级垃圾文本分类器
-
-*   [ht0Ruial/Jiyu\_udp\_attack](https://github.com/ht0Ruial/Jiyu_udp_attack) - 极域电子教室数据包(udp)重放攻击脚本
-
-*   [Megvii-BaseDetection/YOLOX](https://github.com/Megvii-BaseDetection/YOLOX) - YOLOX is a high-performance anchor-free YOLO, exceeding yolov3~v5 with MegEngine, ONNX, TensorRT, ncnn, and OpenVINO supported. Documentation: https://yolox.readthedocs.io/
-
-*   [Ice9Coffee/HoshinoBot](https://github.com/Ice9Coffee/HoshinoBot) - A qqbot for Princess Connect Re:Dive (and other usage :)
-
-*   [NKID00/moegirlpedia-category-search](https://github.com/NKID00/moegirlpedia-category-search) - 萌娘百科分类搜索工具　「黑发蓝瞳双马尾有呆毛又是黑客的人物一共有哪些？」
-
-*   [memset0/memsoti](https://github.com/memset0/memsoti) - 如果能光明正大用好轮子，没人会想写一个破轮子
-
-*   [ShiroDoMain/ATRI-qqbot](https://github.com/ShiroDoMain/ATRI-qqbot) - 一个高性能的qqbot
-
 ## JavaScript
 
 *   [joelseverin/linux-wasm](https://github.com/joelseverin/linux-wasm) - WebAssembly (Wasm) arch support for the Linux kernel
@@ -1348,8 +1350,6 @@
 *   [maxzhang666/OneKeyVip](https://github.com/maxzhang666/OneKeyVip) - 一键Vip解析工具箱,功能介绍：1、一站式音乐搜索解决方案；2、bilibili视频封面获取；3、bilibili视频下载；4、商品历史价格展示(一次性告别虚假降价)；5、优惠券查询；6、CSDN界面清理(复制解锁)
 
 *   [yaronn/blessed-contrib](https://github.com/yaronn/blessed-contrib) - Build terminal dashboards using ascii/ansi art and javascript
-
-*   [minbrowser/min](https://github.com/minbrowser/min) - A fast, minimal browser that protects your privacy
 
 ## C\#
 
