@@ -25,7 +25,6 @@
 *   [XML](#xml)
 *   [Ruby](#ruby)
 *   [Lua](#lua)
-*   [TeX](#tex)
 *   [Svelte](#svelte)
 *   [Hack](#hack)
 *   [Batchfile](#batchfile)
@@ -49,6 +48,7 @@
 *   [Tcl](#tcl)
 *   [Verilog](#verilog)
 *   [VBScript](#vbscript)
+*   [TeX](#tex)
 *   [Dockerfile](#dockerfile)
 *   [Vim Snippet](#vim-snippet)
 *   [Objective-C](#objective-c-1)
@@ -1389,6 +1389,8 @@
 
 *   [idavidrein/gpqa](https://github.com/idavidrein/gpqa) - GPQA: A Graduate-Level Google-Proof Q\&A Benchmark
 
+*   [HugoBlox/theme-academic-cv](https://github.com/HugoBlox/theme-academic-cv) - 🎓 无需编写任何代码即可轻松创建漂亮的学术网站 Easily create a beautiful academic résumé or educational website using Hugo and GitHub. No code.
+
 *   [mistralai/mistral-inference](https://github.com/mistralai/mistral-inference) - Official inference library for Mistral models
 
 *   [openai/CLIP](https://github.com/openai/CLIP) - CLIP (Contrastive Language-Image Pretraining),  Predict the most relevant text snippet given an image
@@ -1623,14 +1625,6 @@
 
 *   [tkkcc/ArkLights](https://github.com/tkkcc/ArkLights) - 明日方舟速通 arknights 本仓库不再维护，请使用  https://github.com/AegirTech/ArkLights
 
-## TeX
-
-*   [HugoBlox/theme-academic-cv](https://github.com/HugoBlox/theme-academic-cv) - 🎓 无需编写任何代码即可轻松创建漂亮的学术网站 Easily create a beautiful academic résumé or educational website using Hugo and GitHub. No code.
-
-*   [YangLaTeX/hitszbeamer](https://github.com/YangLaTeX/hitszbeamer) - A beamer theme for Harbin Institute of Technology, ShenZhen
-
-*   [YangLaTeX/hitszthesis](https://github.com/YangLaTeX/hitszthesis) - A dissertation template for Harbin Institute of Technology, ShenZhen (HITSZ), including bachelor, master and doctor dissertations.
-
 ## Svelte
 
 *   [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
@@ -1736,6 +1730,12 @@
 ## VBScript
 
 *   [pyenv-win/pyenv-win](https://github.com/pyenv-win/pyenv-win) - pyenv for Windows. pyenv is a simple python version management tool. It lets you easily switch between multiple versions of Python. It's simple, unobtrusive, and follows the UNIX tradition of single-purpose tools that do one thing well.
+
+## TeX
+
+*   [YangLaTeX/hitszbeamer](https://github.com/YangLaTeX/hitszbeamer) - A beamer theme for Harbin Institute of Technology, ShenZhen
+
+*   [YangLaTeX/hitszthesis](https://github.com/YangLaTeX/hitszthesis) - A dissertation template for Harbin Institute of Technology, ShenZhen (HITSZ), including bachelor, master and doctor dissertations.
 
 ## Dockerfile
 
