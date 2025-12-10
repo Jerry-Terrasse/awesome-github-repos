@@ -2,8 +2,9 @@
 
 ## Table of Contents
 
-*   [Haskell](#haskell)
+*   [Starlark](#starlark)
 *   [Python](#python)
+*   [Haskell](#haskell)
 *   [TypeScript](#typescript)
 *   [JavaScript](#javascript)
 *   [Go](#go)
@@ -53,15 +54,17 @@
 *   [Vim Snippet](#vim-snippet)
 *   [Objective-C](#objective-c-1)
 
-## Haskell
+## Starlark
 
-*   [jgm/pandoc](https://github.com/jgm/pandoc) - Universal markup converter
-
-*   [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
+*   [MrAMS/bazel-chisel-demo](https://github.com/MrAMS/bazel-chisel-demo) - Chisel project template with Bazel and EDA flow
 
 ## Python
 
-*   [Anionex/banana-slides](https://github.com/Anionex/banana-slides) - 一个基于nano banana pro🍌的原生AI PPT生成应用，迈向真正的＂Vibe PPT＂; 支持上传任意模板图片；上传任意素材；一句话/大纲/页面描述自动生成PPT，自动使用链接图片；口头修改指定区域、一键导出
+*   [sgl-project/sglang](https://github.com/sgl-project/sglang) - SGLang is a fast serving framework for large language models and vision language models.
+
+*   [zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM) -
+
+*   [Anionex/banana-slides](https://github.com/Anionex/banana-slides) - 一个基于nano banana pro🍌的原生AI PPT生成应用，迈向真正的＂Vibe PPT＂; 支持上传任意模板图片；上传任意素材；一句话/大纲/页面描述自动生成PPT，智能解析素材；口头修改指定区域、一键导出 - An AI-native PPT generator based on nano banana pro🍌
 
 *   [allenai/olmocr](https://github.com/allenai/olmocr) - Toolkit for linearizing PDFs for LLM datasets/training
 
@@ -79,7 +82,7 @@
 
 *   [ljw1004/mini\_agent](https://github.com/ljw1004/mini_agent) - A mini AI agent CLI, similar to Claude Code and Gemini CLI
 
-*   [zai-org/GLM-V](https://github.com/zai-org/GLM-V) - GLM-4.5V and GLM-4.1V-Thinking: Towards Versatile Multimodal Reasoning with Scalable Reinforcement Learning
+*   [zai-org/GLM-V](https://github.com/zai-org/GLM-V) - GLM-4.6V/4.5V/4.1V-Thinking: Towards Versatile Multimodal Reasoning with Scalable Reinforcement Learning
 
 *   [opendatalab/MinerU](https://github.com/opendatalab/MinerU) - Transforms complex documents like PDFs into LLM-ready markdown/JSON for your Agentic workflows.
 
@@ -539,9 +542,11 @@
 
 *   [Ice9Coffee/HoshinoBot](https://github.com/Ice9Coffee/HoshinoBot) - A qqbot for Princess Connect Re:Dive (and other usage :)
 
-*   [NKID00/moegirlpedia-category-search](https://github.com/NKID00/moegirlpedia-category-search) - 萌娘百科分类搜索工具　「黑发蓝瞳双马尾有呆毛又是黑客的人物一共有哪些？」
+## Haskell
 
-*   [memset0/memsoti](https://github.com/memset0/memsoti) - 如果能光明正大用好轮子，没人会想写一个破轮子
+*   [jgm/pandoc](https://github.com/jgm/pandoc) - Universal markup converter
+
+*   [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
 
 ## TypeScript
 
@@ -605,7 +610,7 @@
 
 *   [EcoPasteHub/EcoPaste](https://github.com/EcoPasteHub/EcoPaste) - 🎉跨平台的剪贴板管理工具 | Cross-platform clipboard management tool
 
-*   [LLOneBot/LLOneBot](https://github.com/LLOneBot/LLOneBot) - 支持 OneBot 11 和 Satori 协议
+*   [LLOneBot/LLOneBot](https://github.com/LLOneBot/LLOneBot) - 支持 OneBot 11、Satori 和 Milky 协议
 
 *   [nwtgck/piping-server](https://github.com/nwtgck/piping-server) - Infinitely transfer between every device over pure HTTP with pipes or browsers
 
@@ -864,8 +869,6 @@
 *   [mislav/hub](https://github.com/mislav/hub) - A command-line tool that makes git easier to use with GitHub.
 
 *   [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
-
-*   [xalanq/cf-tool](https://github.com/xalanq/cf-tool) - :bar\_chart: Codeforces CLI (Submit, Parse, Test, etc.). Support Contests, Gym, Groups, acmsguru, Windows, macOS, Linux, 7 MB
 
 ## Vue
 
