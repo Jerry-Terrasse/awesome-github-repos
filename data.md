@@ -2,6 +2,7 @@
 
 ## Table of Contents
 
+*   [Swift](#swift)
 *   [Starlark](#starlark)
 *   [Python](#python)
 *   [Haskell](#haskell)
@@ -54,6 +55,10 @@
 *   [Vim Snippet](#vim-snippet)
 *   [Objective-C](#objective-c-1)
 
+## Swift
+
+*   [a1594834522-coder/squirrel-ai](https://github.com/a1594834522-coder/squirrel-ai) - Rime-AI for macOS
+
 ## Starlark
 
 *   [MrAMS/bazel-chisel-demo](https://github.com/MrAMS/bazel-chisel-demo) - Chisel project template with Bazel and EDA flow
@@ -62,9 +67,9 @@
 
 *   [sgl-project/sglang](https://github.com/sgl-project/sglang) - SGLang is a fast serving framework for large language models and vision language models.
 
-*   [zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM) -
+*   [zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM) - An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
-*   [Anionex/banana-slides](https://github.com/Anionex/banana-slides) - 一个基于nano banana pro🍌的原生AI PPT生成应用，迈向真正的＂Vibe PPT＂; 支持上传任意模板图片；上传任意素材；一句话/大纲/页面描述自动生成PPT，智能解析素材；口头修改指定区域、一键导出 - An AI-native PPT generator based on nano banana pro🍌
+*   [Anionex/banana-slides](https://github.com/Anionex/banana-slides) - 一个基于nano banana pro🍌的原生AI PPT生成应用，迈向真正的＂Vibe PPT＂; 支持上传任意模板图片；上传任意素材&智能解析；一句话/大纲/页面描述自动生成PPT；口头修改指定区域、一键导出 - An AI-native PPT generator based on nano banana pro🍌
 
 *   [allenai/olmocr](https://github.com/allenai/olmocr) - Toolkit for linearizing PDFs for LLM datasets/training
 
@@ -539,8 +544,6 @@
 *   [ht0Ruial/Jiyu\_udp\_attack](https://github.com/ht0Ruial/Jiyu_udp_attack) - 极域电子教室数据包(udp)重放攻击脚本
 
 *   [Megvii-BaseDetection/YOLOX](https://github.com/Megvii-BaseDetection/YOLOX) - YOLOX is a high-performance anchor-free YOLO, exceeding yolov3~v5 with MegEngine, ONNX, TensorRT, ncnn, and OpenVINO supported. Documentation: https://yolox.readthedocs.io/
-
-*   [Ice9Coffee/HoshinoBot](https://github.com/Ice9Coffee/HoshinoBot) - A qqbot for Princess Connect Re:Dive (and other usage :)
 
 ## Haskell
 
